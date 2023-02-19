@@ -24,7 +24,7 @@ deftext = output[0][1]
 print(output)
 print(deftext)
 
-file=open("Python/test.txt", "w", encoding="utf-8")
+file=open("test.txt", "w", encoding="utf-8")
 rt = file.write(deftext)
 file.close()
 print(rt)
