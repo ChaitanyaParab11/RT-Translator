@@ -1,0 +1,147 @@
+Paper 1  
+Q.1 
+a.How to measure carbon footprint of the company?  
+ANS: There is no standard definition of carbon footprint but it is the impact of 
+carbon dioxide output over the planet. In some organizations, carbon footprint 
+means the sourcing (raw) material,  manufacturing, distribution 
+(transportation), use, disposal, all these CO 2 generation factors will be 
+accumulated and calculated.  
+Steps to measure carbon footprint are:  
+(i) Define what is included in your carbon footprint.  
+(ii) Set your baseline.  
+(iii) Track, calculate and analyze your footprint.  
+(iv) Report your raises to stakeholders.  
+ 
+b. Explain objectives of STEP program.  
+Ans.  
+(i) Optimizing the life cycle of electrical and electronic equipment by 
+improving the supply chain.  
+(ii) Closing material loops.  
+(iii) Reducing contamination.  
+(iv) Increase the utilization of resources and rescue the equipment.  
+(v) Increase public, scientific and business knowledge.  
+(vi) Develop clear policy recommendations.  
+ 
+c. Explain campaigns  of Based Action Network . 
+Ans:  
+BAN is a non -profit Organization with a mission to ch ampion global 
+environmental health and justice. Focusing on electronic waste and old ships, 
+BAN fulfill its mission using interrelated policy, market solutions, and public 
+engagement strategie s that create systemic change. BAN currently runs four 
+campaigns focusing on decreasing the amount of toxins entering the  environment and protecting underdeveloped countries from serving as a toxic 
+dump of the developed countries of the world.  
+These campaigns are:                                                                                                                                 
+(i) The e -Stewards Initiative: BAN created and manages e -Stewards, a 
+certification standard for the best recycling. E -Stewards distinguish truly 
+responsible recyclers from those who s imply claim to be green.  
+(ii) Green ship recycling: BAN advocates for safe and clean recycling of old 
+ships, such as the cargo ships that once transported us our goods or the retired 
+US Navy vessels that protected the oceans.  
+(iii) Basel Advocacy: BAN cont inually advocates for just policies with their 
+namesake, the United Nations 1989 Basel Convention. Executive Director Jim 
+Puckett is the only person to have attended every conference meeting.  
+(iv) Investigative watchdog: BAN has a long and strong history o f documenting 
+and raising awareness of toxic trade – from being the first to expose the public 
+to e-waste export, to their ongoing exposé work.  
+d. What is national computer recycling act?  
+Ans:  
+Computer recycling , electronic recycling  or e-waste recycling  is the disassembly 
+and separation of components and raw materials of waste electronics. 
+Although the procedures of re -use, donation and repair are not strictly 
+recycling, these are other common sustainable ways to dispose of IT waste.In 
+2009, 38% of  computers  and a quarter of total electronic waste was recycled in 
+the United States, 5% and 3% up from 3 years prior respectively.[2] Since its 
+inception in the early 1990s, more and more devices are recycled worldwide 
+due to increased awareness and investment. Electronic recycling occurs 
+primarily in order to recover valuable  rare earth metals  and precious metals , 
+which are in short supply, as well as  plastics  and metals. These are resold or 
+used in new devices after purification, in effect creating a  circular economy . 
+Such proces ses involve specialised facilities and premises, but within the home 
+or ordinary workplace, sound components of damaged or obsolete computers 
+can often be reused, reducing replacement costs.Recycling is considered 
+environmentally friendly because it preven ts hazardous waste, including  heavy 
+metals  and carcinogens, from entering the atmosphere, landfill or waterways. 
+While electronics consist a small fraction of total wast e generated, they are far 
+more dangerous. There is stringent legislation designed to enforce and  encourage the sustainable disposal of appliances, the most notable being the 
+Waste Electrical and Electronic Equipment Directive of the  European 
+Union  and the  United States  National Computer Recycling Act.  
+e. W hat are WEEE directives?  
+Ans:  The  Waste Elec trical and Electronic Equipment Directive  (WEEE Directive ) 
+is the  European Community  Directive on  waste electrical and electronic 
+equipment  (WEEE) whichbecame  European Law  in February 2003. The WEEE 
+Directive sets  collection , recycling  and recovery  targets for all types 
+of electrical goods . The WEEE directive sets a total of 10 categories of 
+WEEE[8] for reporting purposes.  
+ Large  household appliances  
+ Small household appliances  
+ IT and telecommunications equipment  
+ Consumer equipment  
+ Lighting  equipment  
+ Electrical and electronic tools  
+ Toys,  leisure , and  sports equipment  
+ Medical devices  
+ Monitoring  and control  instruments  
+ Automatic dispensers  
+They have modeled their own legislation. The WEEE directive places the 
+responsibility of disposal of electronic and electrical equipment on the 
+man ufacturers. The manufacturer has to dispose of, recycle or refurbish the 
+equipment in an ecological manner. The only country to meet the WEEE 
+directive law was Cyprus.  
+ 
+f. How does china ROHS work?  
+Ans.Although China takes its lumps for being a destination of  much of the 
+world’s e -waste, the nation is working to get e -waste legislation in place. The  Chinese regulation is normally referred to as China RoHS. Though it is similar to 
+the European Union’s RoHS, it does take a different approach. The EU’s RoHS 
+lists specific categories of products. Specific products are automatically 
+included in those categories unless specifically excluded. China RoHS, however, 
+contains a list of included products. That list is called the Catalog.  
+ 
+Q.2 
+a.What is data De -duplicate?  
+ANS: Data de -duplication is a technique used to reduce the amount of storage 
+space an organization needs to save its data. In most organizations, the storage 
+systems contain duplicate copies of many pieces of data. De -duplication 
+eliminates the extra copies  of data by saving just one copy of the data and 
+replacing the other copies with pointers that lead back to the original copy. 
+Companies frequently use de -duplication in backup and disaster recovery 
+applications, but it can be used to free up space in prim ary storage as well.  
+Benefits of Data De -duplication are:  
+(i) The primary benefit of data de -duplication is that it reduces the amount of 
+disk or tape that organizations need to buy, which in turn reduces costs.  
+(ii) While de -duplication can be applied to data stored on tape, the relatively 
+high costs of disk storage make de -duplication a popular option for disk -based 
+systems.  
+(iv) Eliminating extra copies of data saves money not only on direct disk 
+hardware costs but also on electricity, cooling, maintenan ce, and floor space 
+etc. 
+(v) De -duplication can also reduce the amount of network bandwidth required 
+for backup processes.  
+(vi) It speeds up the backup and recovery process.  
+ 
+ 
+ 
+b.What is low power computer?   ANS:Electricity consumption is a factor that is v ery important when companies 
+design a laptop or tablet because it determines the duration for which it can 
+run on a battery (without connecting the power plug). Each and every 
+component that is put in a laptop or tablet is energy efficient. Laptops also 
+have various other power management features.  70-80%  of power 
+consumption in a laptop is by CPU, and the rest of the components consume 
+very little electricity. Laptops typically consume  20-50 Watts  of electricity that 
+can be trimmed down in power saver mode s. Desktops on the other hand use 
+about  60-200 Watts  of electricity. A lot of it depends on the type of screen. A 
+CRT (Cathode Ray Tube) screen consumes more than LCD (Liquid Crystal 
+Display) screens. LCD screens can save up to 75% of electricity over a CR T 
+screen. A desktop also requires a UPS (Uninterruptible Power Supply) to keep it 
+running during power loses which can eat a significant amount of electricity.  
+ 
+c. Explain MAID?  
+Ans.MAID (massive array of idle disks) is a storage technology in which only 
+those  disk drives in active use are spinning at any given time. MAID reduces 
+power consumption and prolongs the lives of the drives. A MAID, which can 
+have hundreds or even thousands of individual drives, offers mass storage at a 
+cost per terabyte roughly equiv alent to that of tape. MAIDtechnology is 
+offered as an option to high -volume tape libraries. A MAID is usually 
+constructed with low -cost Serial Advanced Technology Attachment (SATA) 
+drives, which have a shorter mean time between failure (MTBF) ratings than  
+more expensive drives.  When the MAID is implemented, every drive is 
+periodically tested. If a driver shows signs of failure, data is tr

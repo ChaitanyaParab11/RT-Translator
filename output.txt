@@ -1,0 +1,2231 @@
+Papier 1
+Q.1
+a.Wie misst man den CO2-Fußabdruck des Unternehmens?
+ANS: Es gibt keine Standarddefinition des CO2-Fußabdrucks, aber es ist die Auswirkung von
+Kohlendioxidausstoß über dem Planeten. In einigen Organisationen der CO2-Fußabdruck
+bedeutet Beschaffung (Roh-)Material, Herstellung, Vertrieb
+(Transport), Nutzung, Entsorgung, all diese Faktoren der CO 2 -Erzeugung werden sein
+gesammelt und berechnet.
+Schritte zur Messung des CO2-Fußabdrucks sind:
+(i) Definieren Sie, was in Ihrem CO2-Fußabdruck enthalten ist.
+(ii) Legen Sie Ihre Grundlinie fest.
+(iii) Verfolgen, berechnen und analysieren Sie Ihren Fußabdruck.
+(iv) Melden Sie Ihre Gehaltserhöhungen den Stakeholdern.
+ 
+B. Erklären Sie die Ziele des STEP-Programms.
+Ans.
+(i) Optimierung des Lebenszyklus von Elektro- und Elektronikgeräten durch
+Verbesserung der Lieferkette.
+(ii) Materialkreisläufe schließen.
+(iii) Verringerung der Kontamination.
+(iv) Erhöhen Sie die Nutzung von Ressourcen und retten Sie die Ausrüstung.
+(v) Steigerung des öffentlichen, wissenschaftlichen und geschäftlichen Wissens.
+(vi) Entwicklung klarer politischer Empfehlungen.
+ 
+C. Erklären Sie Kampagnen von Based Action Network.
+Antwort:
+BAN ist eine gemeinnützige Organisation mit der Mission, sich global zu behaupten
+Umwelt, Gesundheit und Gerechtigkeit. Fokussierung auf Elektroschrott und Altschiffe,
+BAN erfüllt seine Mission durch eine zusammenhängende Politik, Marktlösungen und Öffentlichkeit
+Engagement-Strategien, die systemische Veränderungen bewirken. BAN betreibt derzeit vier
+Kampagnen, die sich darauf konzentrieren, die Menge an Toxinen zu verringern, die in die Umwelt gelangen, und unterentwickelte Länder davor zu schützen, als Gift zu wirken
+Müllkippe der entwickelten Länder der Welt.
+Diese Kampagnen sind:
+(i) Die e-Stewards-Initiative: BAN erstellt und verwaltet e-Stewards, a
+Zertifizierungsstandard für bestes Recycling. E-Stewards unterscheiden sich wirklich
+verantwortungsbewusste Recycler von denen, die behaupten, grün zu sein.
+(ii) Grünes Schiffsrecycling: BAN setzt sich für sicheres und sauberes Recycling von Altschiffen ein
+Schiffe, wie die Frachtschiffe, die uns einst unsere Waren transportierten oder die Rentner
+Schiffe der US Navy, die die Ozeane schützten.
+(iii) Basel Advocacy: BAN setzt sich weiterhin für eine gerechte Politik ein
+Namensvetter, die Basler Konvention der Vereinten Nationen von 1989. Geschäftsführer Jim
+Puckett ist die einzige Person, die an jedem Konferenztreffen teilgenommen hat.
+(iv) Ermittlungs-Wachhund: BAN hat eine lange und starke Geschichte der Dokumentation
+und Sensibilisierung für den Handel mit Giftstoffen – von der ersten, die die Öffentlichkeit bloßstellt
+bis hin zum E-Schrott-Export, bis hin zu ihrer laufenden Exposé-Arbeit.
+D. Was ist das nationale Computerrecyclinggesetz?
+Antwort:
+Computerrecycling, Elektronikrecycling oder Elektroschrottrecycling ist die Demontage
+und Trennung von Komponenten und Rohstoffen von Elektroschrott.
+Obwohl die Verfahren der Wiederverwendung, Spende und Reparatur nicht streng sind
+Recycling, dies sind weitere gängige nachhaltige Wege zur Entsorgung von IT-Müll.In
+2009 wurden 38 % der Computer und ein Viertel des gesamten Elektroschrotts recycelt
+die Vereinigten Staaten, 5 % bzw. 3 % mehr als vor 3 Jahren.[2] Seit seiner
+Anfang der 1990er Jahre werden weltweit immer mehr Geräte recycelt
+aufgrund von erhöhtem Bewusstsein und Investitionen. Elektronisches Recycling findet statt
+vor allem um wertvolle Seltenerdmetalle und Edelmetalle zurückzugewinnen,
+die knapp sind, sowie Kunststoffe und Metalle. Diese werden weiterverkauft bzw
+nach der Reinigung in neuen Geräten verwendet, wodurch eine Kreislaufwirtschaft geschaffen wird .
+Solche Prozesse umfassen spezialisierte Einrichtungen und Räumlichkeiten, jedoch innerhalb der Wohnung
+oder gewöhnlicher Arbeitsplatz, Soundkomponenten von beschädigten oder veralteten Computern
+kann häufig wiederverwendet werden, wodurch die Wiederbeschaffungskosten gesenkt werden. Recycling wird in Erwägung gezogen
+umweltfreundlich, weil gefährliche Abfälle, einschließlich schwerer, vermieden werden
+Metalle und Karzinogene, vor dem Eindringen in die Atmosphäre, auf Deponien oder in Gewässer.
+Während Elektronik nur einen kleinen Bruchteil des gesamten erzeugten Abfalls ausmacht, sind sie weit entfernt
+gefährlicher. Es gibt strenge Gesetze, die darauf abzielen, die nachhaltige Entsorgung von Geräten durchzusetzen und zu fördern, wobei die bemerkenswerteste die ist
+Richtlinie über Elektro- und Elektronik-Altgeräte der Europäischen Union
+Union und dem United States National Computer Recycling Act.
+e. Was sind WEEE-Richtlinien?
+Antwort: Die Richtlinie über Elektro- und Elektronik-Altgeräte (WEEE-Richtlinie)
+ist die Richtlinie der Europäischen Gemeinschaft über Elektro- und Elektronik-Altgeräte
+Elektrogeräte (WEEE), die im Februar europäisches Recht wurden 2003. Die WEEE
+Die Richtlinie legt Sammel-, Recycling- und Verwertungsziele für alle Arten fest
+von Elektroartikeln. Die WEEE-Richtlinie legt insgesamt 10 Kategorien fest
+WEEE[8] für Berichtszwecke.
+ Große Haushaltsgeräte
+ Kleine Haushaltsgeräte
+ IT- und Telekommunikationsgeräte
+ Verbrauchergeräte
+ Beleuchtungsausrüstung
+ Elektrische und elektronische Werkzeuge
+ Spielzeug, Freizeit- und Sportgeräte
+ Medizinprodukte
+ Überwachungs- und Kontrollinstrumente
+ Automatische Spender
+Sie haben ihre eigene Gesetzgebung modelliert. Die WEEE-Richtlinie legt die
+Verantwortung für die Entsorgung von elektronischen und elektrischen Geräten auf der
+Hersteller. Der Hersteller muss die entsorgen, recyceln oder aufbereiten
+Ausrüstung auf ökologische Weise. Das einzige Land, das die WEEE erfüllt
+Richtlinienrecht war Zypern.
+ 
+F. Wie funktioniert China ROHS?
+Antwort: Obwohl China seine Klumpen dafür hält, ein Ziel für viele der
+des weltweiten Elektroschrotts arbeitet die Nation an der Einführung von Elektroschrottgesetzen. Die chinesische Regulierung wird normalerweise als China RoHS bezeichnet. Obwohl es ähnlich ist
+die RoHS der Europäischen Union, verfolgt sie einen anderen Ansatz. Die RoHS der EU
+listet bestimmte Produktkategorien auf. Bestimmte Produkte werden automatisch
+in diesen Kategorien enthalten, sofern nicht ausdrücklich ausgeschlossen. China RoHS, jedoch
+enthält eine Liste der enthaltenen Produkte. Diese Liste wird Katalog genannt.
+ 
+F.2
+a.Was ist Datendeduplizierung?
+ANS: Datendeduplizierung ist eine Technik zur Reduzierung der Speichermenge
+Speicherplatz, den ein Unternehmen zum Speichern seiner Daten benötigt. In den meisten Organisationen ist die Speicherung
+Systeme enthalten doppelte Kopien vieler Datenelemente. Deduplizierung
+eliminiert die zusätzlichen Kopien von Daten, indem nur eine Kopie der Daten gespeichert wird und
+Ersetzen der anderen Kopien durch Zeiger, die zur ursprünglichen Kopie zurückführen.
+Unternehmen verwenden häufig Deduplizierung bei Backup und Disaster Recovery
+Anwendungen, aber es kann auch verwendet werden, um Speicherplatz im Primärspeicher freizugeben.
+Vorteile der Datendeduplizierung sind:
+(i) Der Hauptvorteil der Datendeduplizierung besteht darin, dass sie die Menge an
+Datenträger oder Bänder, die Unternehmen kaufen müssen, was wiederum die Kosten senkt.
+(ii) Während die Deduplizierung auf auf Band gespeicherte Daten angewendet werden kann, ist die relativ
+Hohe Kosten für Festplattenspeicher machen die Deduplizierung zu einer beliebten Option für Festplatten
+Systeme.
+(iv) Das Eliminieren zusätzlicher Datenkopien spart Geld, nicht nur bei Direktplatten
+Hardwarekosten, sondern auch für Strom, Kühlung, Wartung und Stellfläche
+usw.
+(v) Deduplizierung kann auch die Menge an erforderlicher Netzwerkbandbreite reduzieren
+für Backup-Prozesse.
+(vi) Es beschleunigt den Sicherungs- und Wiederherstellungsprozess.
+ 
+ 
+ 
+b.Was ist ein Low-Power-Computer? ANS: Der Stromverbrauch ist ein sehr wichtiger Faktor für Unternehmen
+Entwerfen Sie einen Laptop oder ein Tablet, weil es die Dauer bestimmt, für die es möglich ist
+Batteriebetrieb (ohne Netzstecker). Alles und jeder
+Komponente, die in einen Laptop oder ein Tablet gesteckt wird, ist energieeffizient. Laptops auch
+verfügen über verschiedene andere Energieverwaltungsfunktionen. 70-80% der Leistung
+Der Verbrauch in einem Laptop wird von der CPU bestimmt, und der Rest der Komponenten verbraucht
+sehr wenig Strom. Laptops verbrauchen in der Regel 20-50 Watt Strom
+kann im Energiesparmodus heruntergeregelt werden s. Desktops hingegen verwenden
+ca. 60-200 Watt Strom. Vieles davon hängt von der Art des Bildschirms ab. A
+CRT-Bildschirme (Cathode Ray Tube) verbrauchen mehr als LCD-Bildschirme (Liquid Crystal
+Anzeige) Bildschirme. LCD-Bildschirme können gegenüber einem CR T bis zu 75 % Strom sparen
+Bildschirm. Ein Desktop benötigt auch eine USV (unterbrechungsfreie Stromversorgung), um ihn zu halten
+Betrieb bei Stromausfällen, die eine erhebliche Menge Strom verbrauchen können.
+ 
+C. Erklären Sie MAID?
+Ans.MAID (Massive Array of Idle Disks) ist eine Speichertechnologie, bei der nur
+Diese aktiv genutzten Laufwerke drehen sich zu einem bestimmten Zeitpunkt. MAID reduziert
+Stromverbrauch und verlängert die Lebensdauer der Laufwerke. Ein MÄDCHEN, das kann
+Hunderte oder sogar Tausende von einzelnen Laufwerken haben, bietet Massenspeicher an
+Die Kosten pro Terabyte entsprechen in etwa denen von Bändern. MAIDtechnology ist
+als Option für hochvolumige Bandbibliotheken angeboten. Ein MAID ist normalerweise
+Konstruiert mit kostengünstigem Serial Advanced Technology Attachment (SATA)
+Laufwerke, die eine kürzere MTBF-Bewertung (Mean Time Between Failure) haben als
+teurere Laufwerke. Wenn die MAID implementiert ist, ist jedes Laufwerk
+periodisch getestet. Wenn ein Treiber Anzeichen eines Ausfalls zeigt, werden Daten tr beantwortet
+andere Laufwerke. Ein MAID hat eine weitaus größere Speicherdichte als ein RAID (redundant
+Array unabhängiger Platten) System zu gleichen Kosten. Neben der Leistungsreduzierung
+Verbrauch reduziert sich auch der Kühlbedarf von MAID.
+ 
+  
+d.Erläutern Sie verschiedene Möglichkeiten zur Reduzierung der Kühlkosten?
+Ans. Hier sind drei Möglichkeiten, wie Sie die mit Kühldaten verbundenen Kosten reduzieren können
+Zentren.
+1) Verzichten Sie auf zentrale HVAC-Systeme für mobile Kühlung
+In einigen Fällen kann das zentrale AC-System zur angemessenen Wartung verwendet werden
+Temperaturen von Serverräumen oder Rechenzentren im Büro. Aber in den meisten Fällen führt dies dazu
+in viel verschwendeter Luft und Energie. Es gibt mehrere Hauptgründe für Rechenzentren
+sind kostengünstiger, wenn sie auf eine separate tragbare Kühlung angewiesen sind
+Ausrüstung.
+2) Bleiben Sie bei der Temperaturkontrolle auf dem Laufenden
+Überhitzung führt oft zu dauerhaften Schäden oder kostspieligen Reparaturen. Deshalb
+Die meisten Rechenzentren sind mit Sensoren ausgestattet, die hohe Hitzeniveaus erkennen.
+wodurch das System heruntergefahren wird, bevor es überhitzt. Systemabschaltungen können
+Geräte vor Bruch schützen, aber sie setzen dem Geschäft dennoch einen Schraubenschlüssel. Sie
+kann sogar zum Verlust sensibler oder wichtiger Daten führen. Ganz zu schweigen vom Netzwerk
+Router, die sich um einige der wichtigsten internen und externen Daten kümmern
+Getriebe haben die höchste Wärmeempfindlichkeit.
+Verhindern Sie eine Überhitzung so gut wie möglich, indem Sie zusätzliche Sensoren anbringen
+die Sie vor hohen Temperaturen warnen, bevor sie zu hoch werden.
+3) Split-System AC überdenken
+Wenn sich Ihr Büro-Rechenzentrum in einem gemieteten Raum befindet, kann der Mietvertrag
+Detailvorschriften zu Split-Präzisions-Kühl- oder Mini-Split-Anlagen. Diese
+Methoden erfordern das Schneiden in das Dach oder die Außenwand, um Kupfer zu verlegen
+Verbindungsrohre durch den Raum. Der Installationsprozess ist umfangreich,
+daher werden sie aus vielen Mietverträgen herausgeschrieben.
+4) Nehmen Sie neue abkühlende Technologie an
+Es ist entscheidend, dass Rechenzentren die effizientesten Kühlmethoden verwenden
+verfügbar, um den PUE-Wert [Energienutzungseffektivität] zu senken. Als Ergebnis sind wir
+eine Verlagerung von traditionellen Kühlmethoden hin zu Free-Cooling-Methoden, wie z
+als direkte Verdunstungskühlung (DEC) und luftgekühlte Kaltwassersätze mit freier Kühlung.
+5) Direkte Flüssigkeitskühlungstechnik Direkte Flüssigkeitskühlung beinhaltet im Allgemeinen einen relativ kurzen ROI [return on
+Investition] und reduzierte Gesamtbetriebskosten im Vergleich zu herkömmlichen
+Möglichkeiten zur Kühlung eines Rechenzentrums; Dies hängt natürlich von der Arbeitsbelastung und ab
+Dichte des Rechenzentrums und der bestehenden Infrastruktur. Es ist unglaublich leise,
+im Gegensatz zur Luftkühlung, die laute Zentrifugallüfter erfordert, wodurch die
+Rechenzentrum eine komfortablere Umgebung zum Arbeiten; es ist am effektivsten
+Möglichkeit, ein Rechenzentrum zu kühlen, da es für Serverdichten von verwendet werden kann
+Hunderte von kW für einen 42-HE-Server, wodurch mehrere Medien und Targeting entfernt werden
+direkt an der Wärmequelle; und es ist die effizienteste Art, Daten zu kühlen
+Center.
+ 
+e. Erklären Sie das Design von Rechenzentren mit zentraler Steuerung.
+Antwort: Wenn Sie Ihren Kühlplan entwerfen, verwenden Sie am besten einen benutzerdefinierten
+zentrales Lüftungssystem. Diese Art von System bietet mehrere Vorteile gegenüber
+das vorherrschende System mit mehreren verteilten Einheiten, einschließlich der folgenden: • Besser
+Effizienz. • Kann überschüssige und redundante Kapazität nutzen. • Un seiner kann arbeiten
+miteinander verbinden, statt gegeneinander zu kämpfen. • Verwendet
+flüssigkeitsgekühlte Kälteanlagen, die viel effizienter sind als Wasser - und
+Luftgekühlte Rechenzentren. • Weniger Wartung erforderlich.
+ 
+ 
+F. Erklären Sie Warm- und Kaltgang.
+Ans. Bei einem Kaltgang-Containment-Ansatz installiert das Rechenzentrum am Ende der Reihe
+Türen, Gangdecken oder vertikales Wandsystem, um die Klimaanlage aufzunehmen
+Luft, die Kühlsysteme in die kalten Gänge leiten. Dadurch wird sichergestellt, dass nur diese Luft
+fließt in die Lufteinlässe der im Rack montierten IT-Geräte. Das Rechenzentrum
+enthält den Kaltgang, um die kalte Luft drinnen und die warme Luft draußen zu halten.
+In einer Warmgang-Einhausung wird die heiße, damit die Präzisionsluft eingeschlossen
+Klimaanlage erhalten nur warme Luft aus den Gängen. Wieder das Rechenzentrum
+enthält die warmen Gänge, um die heiße Luft in diesem Gang und die kalte Luft draußen zu halten.
+Doppelboden in einem Rechenzentrum ist ein erhöhter Boden, der 2 Zoll bis 4 Fuß hoch ist
+über einem Betonboden. Es entsteht ein Raum, der zur elektrischen Kühlung genutzt werden kann
+und mechanische Dienstleistungen. In Rechenzentren werden Doppelböden auch als Mittel verwendet
+kalte Luft verteilen. Durch die Verwendung eines Doppelbodens Einrichtungen reduzieren nicht nur die
+Luftmenge zum Kühlen der Geräte, sie benötigen auch weniger Energie und nd
+Verbesserung der Temperaturverteilung über alle Schränke.
+ 
+ 
+ 
+F.3
+a.Erklären Sie das Konzept „Globale Wirkung lokaler Maßnahmen“.
+Antwort: Am unteren Ende der Pyramide steht das Individuum und die Spitze repräsentiert das
+Globale Gemeinschaft. Die Entscheidungen, die bei einem getroffen werden, haben Einfluss auf das nächste
+eben.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1. Globale Aktionen: Die Entscheidungen an beiden Enden der Länder auf der ganzen Welt
+beschäftigen sich mit der weltweit steigenden CO2-Konzentration.
+Viele Organisationen und NGOs arbeiten zusammen, um CO2 loszuwerden
+Auswirkungen auf den Globus. B. UN und internationale Organisationen,
+internationale NGOs etc.
+2. Nationale Politiken: Nationale Politiken sind bereit, die CO2-Niveaus zu reduzieren.
+Sie formulieren Regeln und Vorschriften zur Verbesserung des Globus.
+B. Swachh Bharat Abhiyan, Plastikverbot, Th ermocol-Verbot sind die nationalen
+Politik in Indien.
+ 
+3. Stadt: Die lokale Regierung hat verschiedene Programme zum Umgang mit dem CO2-Gehalt
+Sie koordinieren verschiedene Kampagnen auf nationaler Ebene
+Shows und Vortragsseminare werden durchgeführt, um ein Bewusstsein dafür zu schaffen
+Auswirkungen der CO2-Emissionen auf den Globus. Z. B. lokale Regierungsorganisationen
+wie BMC usw.
+ 
+4. Bauen: Bauen ist der Ort, an dem echtes Handeln stattfindet. hier viele
+Menschen sprechen über Design, Technologie, Materialien und verschiedene Themen
+im Zusammenhang mit CO2.
+ 
+5. Individuelle: Individuelle Aktionen sind tägliche Aktivitäten, die eine indirekte Wirkung haben
+Auswirkungen auf den Globus. Daher Maßnahmen wie die Minimierung des Wasserverbrauchs,
+Reduzierung des Stromverbrauchs, Recycling von Abfallprodukten Nutzung öffentlicher Verkehrsmittel
+Fahrgemeinschaften gehen für einen gesunden Lebensstil. Diese Maßnahmen können die Emission von reduzieren
+CO2.
+ 
+B. Was ist genossenschaftlicher Einkauf?
+ Global
+National
+Stadt
+Gebäude
+Individuelle ANS : Kooperativer Einkauf, auch als kooperative Beschaffung oder bezeichnet
+Genossenschaftsverträge ermöglichen es zwei oder mehr staatlichen Stellen, ihre Verträge zusammenzulegen
+Kaufkraft und Kauf durch wettbewerblich eingeholte Verträge. Koop
+Verträge können zum Kauf von Waren und Dienstleistungen verwendet werden. Teilnahme an
+Einkaufsgenossenschaften sind nicht auf Bundesbehörden beschränkt: Länder,
+Städte, Landkreise, Schulbezirke, Hochschuleinrichtungen, gemeinnützige Organisationen (u
+mehr) können alle von der größeren Kaufkraft profitieren.
+Vorteile des genossenschaftlichen Einkaufs:
+Nutzung der Vorteile von mehr als einem Regierungspartner
+Contracting hat sicherlich seine Vorteile. Einkaufskooperationen:
+ Niedrigere Preise durch Bündelung der Kaufkraft [Einkauf größerer Mengen = Preis
+Ersparnisse]
+ Geringerer Verwaltungsaufwand und geringere Kosten, da der Zeitaufwand reduziert wird
+Vorbereitung und Einholung eines Angebots [Steigerung der betrieblichen Effizienz]
+ Im Allgemeinen können sie kostenlos beitreten und kostenlos verwendet werden
+ Setzen Sie Ressourcen für „unternehmenskritische“ Prozesse frei, indem Sie die Gesamtkosten senken
+ Günstigere Konditionen erhalten
+ 
+ 
+c.Was ist Telearbeit?
+Ans. Telekommunikation ist eine Arbeitsvereinbarung, in der der Arbeitnehmer arbeitet
+außerhalb des Büros. T.C. wird auch als Heimarbeit bezeichnet. Bei diesem Vorgang wird die
+Der Arbeitnehmer könnte interessiert sein, aber das Management zögert möglicherweise mit der Umsetzung
+Arbeit von zu Hause aus. Sun Microsystem betreibt ein eigenes TC-Programm
+angerufen, da ich arbeite, wo die Arbeiter von zu Hause aus arbeiten. Sie haben flexible Arbeitszeiten
+Zentren, wenn Bedarf besteht, müssen sie sich im Büro melden. Die Fahrzeit ist
+durch Radfahren reduziert. Das Unternehmen spart Geld, indem es weniger Strom spart
+Zahlung und Büroort.
+ 
+D. Was ist Outsourcing?
+Antwort: Wenn die Organisation während des Wachstums zusätzliche Computer und Personal benötigt
+Geschäft. Es geht um den Preis des Geldes. Die Last überwinden oder lessen
+Unternehmen können sich für Outsourcing entscheiden. Es kann das Unternehmen einstellen, das bereits über das Personal und die Ausrüstung verfügt, während es die folgenden Dinge auslagert, die benötigt werden
+in Betracht gezogen werden:
+(i) Planen Sie das Projekt im Voraus.
+(ii) Outsourcing-Dienstleister finden.
+(iii) Überprüfen Sie die Projektanforderung und das Projekt.
+(iv) Finden Sie die Durchführbarkeit des Projekts in Bezug auf Zeit, Geld und Aufwand.
+ 
+e. Erklären Sie, in einer Organisation papierlos zu werden.
+Antwort: Die papierlose Organisation spart Geld, Zeit und erhöht sich
+Effizienz und Effektivität bei der Arbeit. Planung für eine papierlose Organisation sein kann
+in folgenden Schritten ausgeführt:
+ Implementieren Sie eine papierlose Dokumentenablage.
+ Umstellung auf papierlose Meetings.
+ Verwenden Sie elektrische Kommunikation.
+ Dokumente scannen.
+ Wechseln Sie zu digitale Quittungen.
+ Investieren Sie in energieeffiziente Bürogeräte.
+ Verwenden Sie elektronische Signaturen.
+ 
+F. Erklären Sie das EDI-Konzept.
+Antwort: Das EDI-System wird von Organisationen zur Verwaltung ihrer Lieferkette verwendet
+Anbieter und andere Unternehmen. EDI ist ein System, das elektronische
+Austausch von Geschäftsdokumenten wie Bestellschein, Rechnung, Versandanzeige
+und Abrechnung etc.
+Vorteile:
+(i) EDI ist eine Online-Transaktion, die erheblich Zeit spart.
+(ii) EDI reduziert Dateneingabefehler, minimiert Arbeitskosten und verbessert
+Arbeitseffizienz.
+(iii) EDI bietet eine sichere Umgebung.
+(iv) EDI ist effizienter als herkömmliche Methoden.
+(v) EDI beschleunigt auch die Geschäftsvorschläge.
+Hindernisse bei der Implementierung von EDI:
+(i) Die Kosten für Zeit und Geld bei der Implementierung der Ersteinrichtung sind erheblich
+Hindernisse für EDI. (ii) Bestehendes Geschäft, wenn es auf Papierhandhabung aufbaut, kann intern erforderlich sein
+Änderungen.
+(iii) Die hausinterne Automatisierung benötigt ebenfalls eine Schulung des Personals.
+(iv) Die Bearbeitung vorhandener Unterlagen hat ordnungsgemäß zu erfolgen
+Benehmen.
+ 
+ 
+ 
+F.4
+A. Erklären Sie die gesundheitsschädlichen Auswirkungen von Elektroschrott.
+ANS: Unsachgemäßer Umgang mit Elektroschrott ist schädlich für die Umwelt und
+Menschheit. Denn dieser Müll ist nichts anderes als eine Kombination aus Plastik und Gift
+Chemikalien, diese gelangen in die Umwelt. Schadstoffe wie z
+Dioxine und Furane aus Polyvinylchlorid, Blei, Beryllium, Cadmium,
+Quecksilber usw. gelangen in unsere Umwelt und verursachen die folgenden Gesundheitsschäden
+Gefahren:
+ Fortpflanzungsprobleme
+ Entwicklungsprobleme
+ Schädigung des Immunsystems
+ Beeinflussung regulatorischer Hormone
+ Schädigung des Nervensystems
+ Nierenschäden
+ Behinderung der Gehirnentwicklung bei Kindern
+ Kann zu Lungenkrebs führen
+ Chronische Berylliumkrankheit
+ Hauterkrankungen
+ Cadmiumansammlungen an Leber und Niere
+ Asthmatische Bronchitis
+ DNA-Schäden
+ Muskelschwäche
+ Störung des endokrinen Systems
+b. Erläutern Sie das Sanierungskonzept?
+Antwort:
+Aufarbeitungsprozess: (i) Ein Aufbereiter erhält ausrangierte Teile und extrahiert dann verwendbare Teile
+von Computern, die nicht reparierbar sind, und behebt dann denjenigen, der das tut
+kann repariert werden.
+(ii) Der Prozess kann mit 2 -3 ausrangierten Maschinen durchgeführt werden, mit denen man
+funktionsfähiger Computer entworfen werden kann
+(iii) Computer können kundenindividuell aufgearbeitet werden
+Spezifikation.
+Nichtgewerbliche Sanierungen: Fast mehr als 70 % nichtgewerbliche Sanierungen
+Wiederverwendete Computer werden zur Schule geschickt. Dies ist ein gemeinnütziger Deal, bei dem Computer
+Ausbildung gehört, werden die Teile in die Schule geschickt. Der „Compumentor“ ist ein
+Organisation, die hilft, PCs und andere Technologien mit geringem Einkommen bereitzustellen.
+Gewerbliche Aufarbeitung: Die alten Computer können für Privatpersonen online verkauft werden
+oder die Organisation. Finanzdienstleistungen von IBM und HP werden kommerziell angeboten
+Renovierung. Die Computer werden an einen Ort gebracht. Firma Dell
+refurbished Operationen durchführt und die Computer wieder an die verkauft werden
+erforderliche Branche oder Einzelperson.
+ 
+ 
+ 
+ 
+c. Erklären Sie verschiedene Methoden zum Reinigen einer Festplatte.
+Antwort: Nur eine Formatierung reicht nicht aus, um die Festplatte zu bereinigen. Die Information
+kann auch nach dem Formatieren von der Festplatte abgerufen werden. Das schnelle Format eben
+schreibt auf einen Teil der Festplatte, aber die meisten Daten sind immer noch dort. Es gibt
+verschiedene Methoden zum vollständigen Löschen von Festplattendaten:
+B. Daten löschen: Beim Datenlöschvorgang wird die Datei gelöscht. Mit diesem
+Methode, wenn Daten den Bereich überschreiben, in dem sich die neue Datei befinden kann.
+C. Überschreiben: Das Entfernen alter Daten ist auch durch Überschreiben möglich
+neue Daten. Bei diesem Verfahren wird die Fehlausrichtung von Lese- oder Schreibköpfen der d er
+Datenträger kann auftreten.
+D. Entmagnetisierung: Die starke Magnetkraft kann Daten auf Magnetplatten löschen.
+Dieser Prozess verwendet die Maschine, die starke Magnetfelder erzeugt. Und
+zerstört die auf der Festplatte gespeicherten Informationen. Dieser Vorgang löscht die
+Daten sehr schnell, zerstört aber auch andere Komponenten der Festplatte.
+Es ist sehr wichtig, vorsichtig zu sein, wenn Sie eine Entmagnetisierungsmaschine zum Löschen von Daten verwenden. Dieser Prozess wird in der Regel von hochprofessionellen durchgeführt
+Menschen.
+e. Mechanisches Schreddern: Bei diesem Verfahren werden die alten Festplatten im Archiv aufbewahrt
+Schreddermaschine und werden in kleinere Stücke gebrochen. Hier alles vertraulich
+Informationen werden gelöscht, aber man kann sie nach dem Schreddern nicht zurückbekommen a
+Festplatte. Die Unternehmen können sich für sicheres Löschen entscheiden, wo sicheres Löschen
+Die Software reinigt die Festplatte und schafft mehr Platz für die Datenspeicherung.
+Aber die Organisation braucht t tragen seine Kosten.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d. Erläutern Sie die Vorteile des Thin Client.
+Antwort:
+ 
+ 
+  
+e.Erklären Sie den Vorteil des Blade-Servers.
+Antwort: Die Vorteile des Blade-Servers sind:
+F. Weniger Platzbedarf: Blades nehmen 35–45 % weniger Platz ein als Tower oder Rack –
+gemountete Server.
+G. Reduzieren Sie den Stromverbrauch: Durch Zusammenführen von Netzteilen in Blade
+Chassis reduzieren wir die benötigten Netzteile und profitieren von einem
+Gesamtreduzierung des Stromverbrauchs.
+H. Niedrigere Verwaltungskosten: Nach dem Zusammenführen unserer Server, Bereitstellung,
+Management und Verwaltung werden vereinfacht und verbessert. Es resultiert I
+Kosteneinsparungen und weniger Kopfschmerzen für das IT-Personal.
+ich. Vereinfachte Verkabelung: Blade-Server reduzieren den Verkabelungsaufwand um 70 %.
+Weniger Kabel ermöglichen eine bessere Luftzirkulation, was niedrigere Kühlkosten bedeutet.
+ 
+ 
+ 
+f. Erläutern Sie Faktoren, die bei der Remote-Desktop-Nutzung zu berücksichtigen sind.
+ 
+ ANS: Sie können auch Arbeitern das Leben leichter machen, die unterwegs sind bzw
+gelegentlich von zu Hause oder einem entfernten Standort aus arbeiten müssen. Sie können zugreifen
+ihre Bürocomputer, falls sie sie verwenden
+Windows, über Remote Desktop. Aber es sind nicht nur Außendienstmitarbeiter
+wer von Remote Desktop profitieren kann – Personen in Ihrer Organisation
+kann es auch verwenden. Es kann für folgende Zwecke verwendet werden:
+• Um Thin Clients mit Strom zu versorgen Wenn Sie Thin Clients kaufen, kann Remote Desktop sein
+gewöhnt an
+Verbinden Sie Ihre Thin Clients mit dem Server.
+• Die Lebensdauer vorhandener Maschinen verlängern, anstatt alte loszuwerden
+Maschinen,
+Sie können sie in Thin Clients verwandeln und Anwendungen vom Server ausführen.
+ 
+ 
+ 
+ 
+F.5
+A. Erklären Sie die Ziele von SMART-Zielen.
+Antwort: Es ist ein Mechanismus, der uns hilft, bestimmte Ziele zu setzen und zu erreichen. SMART ist ein
+Akronym für Specific Measurable Attainable Realistic Timely.
+B. Spezifisch: Ein Ziel sollte spezifisch sein und sich auf Menschen beziehen
+kann sich darauf beziehen. Für z.B. Ein Ziel ist es, in 3 Monaten die Note A+ zu bekommen
+Spezifisch.
+C. Messbar: Entwickeln Sie konkrete Kriterien zur Fortschrittsmessung
+zu einem Ziel.
+D. Erreichbar: Sobald die Ziele identifiziert sind, denken Sie über Wege und Möglichkeiten nach
+um sie zu erreichen. Für z.B. Konsequentes Üben führt zum Ziel
+erreichbar.
+e. Realistisch: Setzen Sie sich hohe Ziele, aber seien Sie sicher, dass sie auch in der Realität erreicht werden können.
+Für z.B. In 3 Monaten kann man gute Noten bekommen, aber nicht in 3
+Tage.
+F. Rechtzeitig: Wir müssen ein Zeitlimit haben, um das Ziel zu erreichen. Es könnte
+ein bestimmtes Datum, Monat oder Jahr sein. Für z.B. Hier hat das Ziel Zeit
+Zeitraum von 3 Monaten.
+ 
+                  b. Erklären Sie die Rolle des Chief Green Officer. ANS: Es ist auch als Chief Environmental Commitment Officer bekannt
+(CECO). Chief Green Officer (CGO) hat eine Jobrolle, die Folgendes beinhaltet
+Umsetzung und Überwachung der grünen Initiativen der Organisation. .
+Diese Initiativen werden implementiert, um die Kosten der Organisation zu minimieren
+Kohlenstoff. Fußabdruck und schonen Sie die Umwelt.
+ 
+CGO wird für folgende Dinge verantwortlich sein:
+ 
+1. Neue und innovative Wege finden, um den Kohlenstoff zu reduzieren
+Fußabdruck der Organisation.
+ 
+2. Verschiedene Stakeholder an Bord holen und einbeziehen
+grüne Programme.
+ 
+3. Entdecken Sie neue Umsatzmöglichkeiten durch Unternehmens- und
+Initiativen zur ökologischen Nachhaltigkeit.
+ 
+c.Erklären Sie die Charakteristik von SAAS.
+ANS:
+Für wenige Anwendungen ist nicht einmal eine auf unseren Servern installierte Software erforderlich.
+Dies ist eine weitere Möglichkeit, Geräte aus unserem zu eliminieren
+Unternehmen. Es wird als SaaS bezeichnet. Eigenschaften Die SaaS ist ein Modell
+wo ein Softwareanbieter seine Software zur Nutzung über das Internet anbietet.
+Wir brauchen also keine Ausrüstung, um es auszuführen, wir können auf alle zugreifen
+Dienste dieser Software über das Internet. Für Software tun wir das auch nicht
+bezahlen müssen, aber für die Nutzung müssen wir bezahlen. Vorteil von SaaS ist, dass wir
+Sie müssen sich keine Gedanken über den Kauf von Upgrades für die Anwendung machen,
+Durchführen von Upgrades und Beheben von Problemen. Beliebig
+Upgrades werden vom SaaS-Anbieter durchgeführt. Die SaaS-Software
+umfasst die folgenden Merkmale: • Netzwerkbasierter Zugriff auf u
+Verwaltung von im Handel erhältlicher Software. • Aktivitäten, die sind
+verwaltet von zentralen Standorten statt bei jedem Kunden vor Ort,
+ Kunden den Remote-Zugriff auf Anwendungen über das Web ermöglichen. •
+Anwendungsbereitstellung, die in der Regel eher einem One-to-Many-Modell entspricht,
+einschließlich Architektur, Preisgestaltung, Partnering und Management
+Eigenschaften. • Zentralisierte Funktionsaktualisierung, wodurch die
+Bedarf an herunterladbaren Patches und Upgrades. Die SaaS-Anwendungen
+werden pro Benutzer berechnet. Zusätzliche Gebühren können extra hinzugefügt werden
+Bandbreite u und Lagerung.
+ 
+ 
+d. Erklären Sie die Just-in-Time(JIT)-Kauftechnik
+            Antwort: Das JIT-Konzept kann von Organisationen verwendet werden, was von Vorteil ist
+bestimmte Bereiche, in denen:
+(i) Es reduziert die Gesamtzahl der Produkte in unserem Lager.
+(ii) Die Organisation kann Ausrüstung nur bei Bedarf kaufen oder kaufen.
+(iii) Die unnötig gekaufte Ausrüstung nimmt Platz ein.
+(iv) Unnötiger Kauf führt auch zu Geldmangel.
+(v) Die Dell-Computer werden gebaut, wenn genügend Bestellungen von der vorhanden sind
+Verbraucher und Anbieter. Sie haben keine Maschinen, die darauf warten
+gekauft oder nutzlos herumliegen.
+(vi) Der JIT-Einkauf hat also enorme Vorteile, die Geld und Strom sparen
+Trendprodukt erhältlich.
+.
+ 
+e.CRM-Komponenten erklären.
+Antwort: Customer Relationship Management (CRM) ist eine Philosophie von
+untereinander koordinieren
+alle Akteure in einer Organisation, damit der Kunde gut bedient wird
+und hat das Beste
+erleben Sie möglich, Ihr Kunde zu sein. Dazu mehrere
+Anwendungspakete helfen
+rationalisieren Sie den Prozess.
+Zu den technologischen Komponenten Ihres CRM-Systems gehören die
+Folgendes:
+• Datenbank Eine Datenbank für Kundeninformationen und deren
+Interaktionen mit dem Unternehmen, einschließlich Bestellinformationen, Supportinformationen,
+Anfragen,
+Beschwerden und Umfrageantworten.
+• Kundenintelligenz Sie benötigen ein System zur Übersetzung von Kundendaten
+braucht und
+Rentabilitätsprognosen in segmentierbare Pläne umwandeln
+verschiedene Arten von
+Kunden. Dann müssen Sie in der Lage sein, zu verfolgen, ob diese Pläne
+befolgt werden und
+ob die gewünschten Ergebnisse erreicht wurden.
+• Geschäftsmodellierung Dieses Stück analysiert Ihre Kundenbeziehung
+Strategie entlang
+mit den Toren. Am Ende wird Ihnen dies sagen, ob Sie sich treffen
+Deine Tore.
+• Lern- und Kompetenzmanagementsysteme Diese Komponente
+hilft dir zu bekommen
+näher an den gewünschten Ergebnissen und den gesetzten Zielen. Komplex
+Systeme brauchen Zeit
+implementiert und optimiert werden müssen, und diese Komponente kann Ihnen dabei helfen
+analysieren Sie Ihre
+Prozesse.
+• Analytics Dieses Stück wird verwendet, um die Kundenbeziehung zu analysieren
+Politik und
+Aktivitäten unter Verwendung von Technologien wie Spracherkennung und Statistik
+Analyse.
+• Zusammenarbeit Diese Komponente ermöglicht Ihren Kunden die Interaktion
+mit Ihrem
+Unternehmen und ihre Mitkunden.
+Jede dieser Komponenten kann einzeln implementiert werden
+Zeit, aber das Endziel ist für
+sie so konfiguriert werden, dass sie voneinander profitieren. SAP (Link 13 -2) und
+Orakel (Link 13 -3) – unter
+andere bieten CRM-Lösungen an.
+ 
+f. Erklären Sie verschiedene Business-Intelligence-Tools.
+ANS : Um Ihre Daten zu messen und zu verfolgen, können Sie business
+Intelligence (BI)-Tools wie die folgenden:
+• Digitale Dashboards Diese werden auch als Business Intelligence bezeichnet
+Dashboards,
+Unternehmens-Dashboards oder Executive-Dashboards. Sie geben dir ein
+visuelle Zusammenfassung der
+Daten, die Sie nachverfolgen möchten, sowie einen Überblick über sie
+Geschäftsbedingungen.
+• Online Analytical Processing (OLAP) Diese Funktion ermöglicht einige
+Information
+Systeme, um Daten aus verschiedenen Perspektiven zu analysieren und Ihnen die
+Ergebnisse.
+Berichterstellungssoftware Diese Anwendungen generieren aggregierte Ansichten von
+Daten, die Sie sind
+Verfolgung. Sie können verschiedene Zeiten vergleichen, damit Sie ein gutes bekommen
+Verständnis von
+Ihre Rahmenbedingungen.
+• Data Mining Damit können Sie Ihre Daten durchgehen und
+Suche nach einem bestimmten
+Stück Information. Zum Beispiel, wenn Sie sich entschieden haben, eine Metrik zu verfolgen
+du hattest nicht
+zuvor gedacht zu verfolgen, mit Data Mining können Sie zurückgehen
+durch vorhandene Daten
+und nehmen Sie Ihre neuen Messungen vor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Papier 2
+ 
+Q.1
+A. Was sind die Schritte zur Messung des CO2-Fußabdrucks?
+Ans) Ein CO2-Fußabdruck ist definiert als: Die Gesamtmenge an Treibhausgasen
+produziert, um menschliche Aktivitäten direkt und indirekt zu unterstützen, normalerweise ausgedrückt
+in äquivalenten Tonnen Kohlendioxid (CO2). In wenigen Organisationen Kohlenstoff
+Fußabdruck könnte bedeuten, dass alles gezählt wird – Beschaffung von Materialien,
+Herstellung, Vertrieb, Nutzung, Entsorgung und so weiter. Messen Messen
+des CO2-Fußabdrucks ist eine zeitaufwändige Aufgabe. Folgende Schritte können dafür verwendet werden.
+Schritt 1. Definieren Sie die Grenze für Ihren CO2-Fußabdruck. Wir müssen dies überwachen
+Jahr für Jahr wird der CO2-Fußabdruck verarbeitet, daher ist es sehr wichtig, einen zu haben
+Regeln, die über den Umfang der zu erledigenden Arbeiten zu befolgen sind. Unser primäres Ziel ist es
+den Ausstoß von Kohlenstoff reduzieren, wenn wir es nicht schaffen, th zu definieren Der CO2-Fußabdruck
+Grenze kann Vergleiche mit Benchmarks verhindern und könnte dies auch
+eine aussagekräftige Überwachung der Leistung untergraben. Es gibt drei Arten von
+Grenzen: Typ 1: Operative Kontrolle: Mit diesem Ansatz jede Operation
+unserer Organisation/Unternehmen wird in der CO2-Bilanz erfasst. Das auch
+umfasst die Lieferkette, wenn eine Organisation eine ausreichende operative Kontrolle darüber hat
+Lieferanten. Typ 2: Finanzkontrolle: Bei diesem Ansatz werden alle finanziellen Elemente berücksichtigt
+inbegriffen. Oft schließt dies Elemente aus, die unser Unternehmen möglicherweise betreibt, aber
+nicht finanziell kontrollieren und daher kann die Verwendung dieses Ansatzes zu einem geringeren Ergebnis führen
+CO2-Fußabdruck . Typ 3: Eigenkapitalkontrolle: Dieser Ansatz umfasst alle Elemente
+die unser Unternehmen besitzt. Wenn unser Unternehmen Teileigentum hat, dann die
+Anteilsbesitz wird verwendet, um den relevanten CO2-Fußabdruck zu berechnen
+dieser Gesellschaft zuzurechnen.
+  Entscheiden Sie, welche Emissionen in den Anwendungsbereich aufgenommen werden: Der Anwendungsbereich bezieht sich auf die
+Emissionsarten, die in einem CO2-Fußabdruck erfasst werden. Der Umfang einer Organisation
+Carb on Footprint zerfällt ebenfalls in drei Komponenten. Scope-1-Emissionen:
+Dies sind direkte Emissionen von Vermögenswerten, die entweder unserem Unternehmen gehören
+(d. h. Flottenfahrzeugemissionen aus dem Kraftstoffverbrauch) oder Emissionen
+die durch eine Aktivität vor Ort entstehen (d. h. Emissionen aus der Verbrennung natürlicher
+Gas im Boiler eines Unternehmens). Scope-2-Emissionen: Scope 2 umfasst alle indirekten Emissionen
+Emissionen oder genauer Emissionen, die aus der Produktion von zugekauftem Strom stammen. Hier hat das Unternehmen die Emissionen nicht tatsächlich verursacht
+verbunden mit der Stromerzeugung, sondern aufgrund des Stromverbrauchs
+Wir können sagen, dass unsere Organisation indirekt ist, um Lichter, Geräte usw. mit Strom zu versorgen
+für diese Emissionen verantwortlich. Scope-3-Emissionen: Scope 3 umfasst alle anderen
+indirekte Emissionen, die nicht auf den Verbrauch von gekauften Produkten zurückzuführen sind
+Elektrizität. Dazu gehört eine breite Palette von Emissionsquellen, einschließlich Abfall,
+Verbrauchsmaterialien, Pendelverkehr der Mitarbeiter, Emissionen in der Lieferkette, Wasserverbrauch usw.
+ Schritt 3. Definieren Sie den Zeitraum Ihres CO2-Fußabdrucks Ein CO2-Fußabdruck ist in der Regel
+über einen Zeitraum von einem Jahr gemessen. Bei der Auswahl unseres Zeitraums für
+Messung ist es am besten, an andere Berichtszyklen zu denken, die als verwendet werden können
+den festgelegten Zeitrahmen.
+Schritt 4. Verwenden Sie einen praktischen Ansatz, um jährliche Daten zu sammeln
+unsere Grenze und die Art der Emissionen, die wir erfassen werden, werden wir dann tun
+müssen Daten zu allen Elementen sammeln, die wir Kohlenstoff messen werden
+Emissionen für (z. B. Strom- und Gasverbrauch, Fahrzeugkilometer, Abfallaufkommen etc.)
+ 
+ 
+B. Wie können sich Hardwarebereitstellungen auf die Umgebung auswirken?
+Antwort) Es gibt eine Reihe von Möglichkeiten, wie bestimmte Hardware und Hardware
+Bereitstellungen können sich auf die Umgebung auswirken. Wir können die Kosten für Hardware reduzieren
+einfach weniger Ausrüstung kaufen. Die Schritte unternehmen, die Belohnungen gewinnen: The
+Die Vanderbilt University in Nashville und der Bundesstaat Oregon haben begonnen
+Rechenzentrums-Virtualisierungsprojekte und erwarten bis dahin Einsparungen in Millionenhöhe
+wenn die Projekte abgeschlossen sind. Informationstechnologiedienste von Vanderbilt
+Unternehmen nutzen Servervirtualisierung, um ihren Energieverbrauch zu senken und Einsparungen zu erzielen
+Geld und weniger Umweltschäden. Verwenden Sie, was Sie haben: Jedes Mal
+Bevor Sie neue Geräte kaufen, gehen Sie noch einmal unseren alten Bestand durch
+und alte elektronische Elemente. Wenn wir etwas gefunden haben, das wiederverwendet werden kann
+und energetisch saniert werden, tun Sie das zuerst. Wir können einen älteren nehmen
+Computer und verwandeln Sie ihn in einen Thin Client für die Verarbeitungs- und Speicheraufgaben
+auf dem Server durchgeführt, da der Client nur genügend Leistung benötigt, um dies zu können
+anzeigen, was auf dem Server vor sich geht. Ein Thin Client verbraucht 15 Watt Energie
+statt der 150 Watt, die Workstations im Durchschnitt verbrauchen. Wenn wir tun
+unsere Energierechnung wird also zehnmal niedriger sein als jetzt.
+ 
+ 
+C. Schreiben Sie eine Notiz zur Geräteentsorgung. Ans) 1.Wenn Computer und andere Geräte veraltet sind, müssen sie es sein
+verworfen. Werden diese Geräte fachgerecht entsorgt, sind viele Wertstoffe dabei
+aus diesen Geräten extrahiert, die dann als Rohstoff für andere verwendet werden können
+Geräte.
+2. Auf der anderen Seite können sie, wenn sie nicht ordnungsgemäß entsorgt werden, eine wichtige Quelle für Schadstoffe sein
+Toxine oder gefährliche Stoffe. Aber das Hauptproblem ist, dass es keine formalen ,
+legale, behördliche Verfahren für die ordnungsgemäße Entsorgung von Elektronik in vielen der
+Orte einschließlich der Vereinigten St ates. Aber Europa und Japan haben eine Politik f oder
+Umgang mit Altprodukten.
+ 
+D. Welche Schritte hat JAPAN unternommen, um seinen eigenen Elektroschrott zu messen?
+Problem?
+Ans) Die japanische Entsorgung von Elektroschrott kommt mit einem Gesetz, es gibt Rollen und
+Verantwortlichkeiten der relevanten Stakeholder.
+Stakeholder sind:
+(i) Die Hersteller sind für die Rücknahme und das Recycling der Geräte verantwortlich, die
+sie haben verkauft.
+(ii) Einzelhändler sind für die Rücknahme gebrauchter Geräte und deren Recycling verantwortlich
+nochmal zurück zu den Herstellern. Sie müssen die Kosten für die Abholung und anzeigen
+transportieren.
+(iii) Verbraucher sind für die ordnungsgemäße Entsorgung gebrauchter Geräte verantwortlich und
+sie müssen die kosten für das recycling tragen.
+(iv) Die Kommunen sind für die Zustellung und Abholung nach Hause zuständig
+Geräte zu den Recyclingeinheiten.
+ 
+e. Was sind die Funktionen des Basler Aktionsnetzwerks?
+Antwort: Das BAN ist eine gemeinnützige Nichtregierungsorganisation, die sich für den Kampf einsetzt
+der Export von Giftmüll aus Technik und anderen Produkten aus
+Industriegesellschaften in Entwicklungsländer. Die Hauptfunktionen des BAN
+enthalten:
+(i) Es bietet Informationen zum Abfallhandel für Journalisten und Akademiker
+und die allgemeine Öffentlichkeit durch die Verwendung von E-Mail-Newslettern und Elektronik
+Aktionswarnungen. (ii) Es leistet auch internationale politische Interessenvertretung. Ban arbeitet mit der
+Organisation der Vereinten Nationen für wirtschaftliche Zusammenarbeit (UNEP),
+Chemikalienprogramm und Regierungsrat. Es hat auch produziert
+Nationale Gesetzgebung zum Giftmüllhandel für Entwicklungsländer.
+(iii) Ban führt Feldforschung und Untersuchungen in Entwicklungsländern durch
+und bietet Foto- und Videodokumentation von Elektroschrott
+handeln.
+(iv) Ban nimmt mit NGOs auf der ganzen Welt an Kampagnen teil
+Giftmüll entgegenwirken.
+(v) Es fördert das sichere, saubere und gerechte Recycling alter Frachtschiffe und
+Elektronik weltweit.
+ 
+F. Erklären Sie fünf Elektroschrottgesetze der US-Bundesstaaten.
+Antwort: Da Elektroschrott ein internationales Anliegen ist, haben die Vereinten Nationen eine Führungsrolle übernommen
+und implementierte das Programm zur Lösung des Elektroschrottproblems (StEP). STEP ist es nicht
+soll als strenge Organisation missverstanden werden, die das Amt überwacht
+Gebäude, in denen CRTs unsicher entsorgt werden. Stattdessen ist StEP ein Programm
+wo Unternehmen, staatliche Organisationen, akademische Einrichtungen,
+Nichtregierungsorganisationen (NGOs) und gemeinnützige Organisationen in der Umgebung
+die Welt kann teilnehmen. Um sich bei StEP zu engagieren, muss eine Organisation
+verpflichten sich zu einer aktiven und produktiven Mitarbeit im StEP-Programm
+1. Forschung und Pilotierung: Die Überwindung des Elektroschrottproblems erfordert
+Wissen, Führung und Handeln. Durch die Durchführung und Weitergabe wissenschaftlicher
+Forschung trägt Step dazu bei, eine effektive Politikgestaltung zu gestalten. Forschung ist auch der Schlüssel
+zur Reduzierung oder zum Ersatz von Ressourcen, die in der Fertigung verwendet werden. Durch die Förderung der
+Generierung von Problemlösungsideen kann Step deren Umsetzung unterstützen
+und ihre Wirkung analysieren.
+2. Strategie und Zielsetzung: Während das übergeordnete Ziel die Eliminierung von e -
+Abfall als Problem, es gibt Realitäten, die auf dem Weg dorthin angenommen werden müssen. Ziele,
+Ziele und Strategien müssen die unterschiedlichen Gegebenheiten berücksichtigen
+verschiedenen Jurisdiktionen und Märkten. Ein wichtiges strategisches Ziel ist es, Profis zu stärken -
+Aktivität auf dem Markt durch erweiterte Mitgliedschaft und Sicherung a
+solide Finanzierungsbasis zur Unterstützung der Aktivitäten.
+ 3. Schulung und Entwicklung: Steps globaler Überblick über E-Waste-Themen macht
+Es ist der offensichtliche Anbieter von Schulungen zum Thema Elektroschrott. Der Schritt EWaste
+Academy bringt unterschiedliche Gruppen von Teilnehmern zusammen und schult sie zu Schlüsselthemen. Ein Lehrplan wird mit dem ultimativen Ziel definiert, den Schritt zu erweitern
+Elektroschrott Akademie.
+ 4. Kommunikation und Branding: Markenkommunikation und -bekanntheit sind von entscheidender Bedeutung,
+sowohl innerhalb der Mitgliedschaft als auch in der gesamten Branche. Einer von
+Die Prioritäten von Step bestehen darin, sicherzustellen, dass Mitglieder, potenzielle Mitglieder und
+Gesetzgeber werden alle auf die Art und das Ausmaß des Problems aufmerksam gemacht
+Entwicklungsmöglichkeiten und wie Step zur Lösung des Elektroschrotts beiträgt
+Problem
+ 
+ 
+F.2
+A. Schreiben Sie eine Notiz zu Datendeduplizierung und -virtualisierung.
+Antwort: Die Datendeduplizierung ist eine Technik zur Reduzierung der Speichermenge
+Speicherplatz, den eine Organisation benötigt, um ihre Daten zu speichern. In den meisten Organisationen ist die Speicherung
+Systeme enthalten doppelte Kopien vieler Datenelemente. Deduplizierung
+eliminiert die zusätzlichen Kopien von Daten, indem nur eine Kopie der Daten gespeichert wird und
+Ersetzen der anderen Kopien durch Zeiger, die zum ursprünglichen co zurückführen py.
+Unternehmen verwenden häufig Deduplizierung bei Backup und Disaster Recovery
+Anwendungen, aber es kann auch verwendet werden, um Speicherplatz im Primärspeicher freizugeben.
+Virtualisierung gehört zur Hardwarereduzierung, Kosteneinsparung und Energieeinsparung
+Technologie, die die IT-Landschaft schnell und grundlegend verändert
+die Art und Weise verändern, wie Menschen rechnen. Auf einem Server oder einem Desktop-PC ist dies möglich
+mehrere Betriebssysteme und mehrere Anwendungen auf einem einzigen ausgeführt werden
+Computer. Die Software, die dies ermöglicht, wird als Hypervisor bezeichnet.
+ 
+B. Erklären Sie MAID und RAID.
+Antwort) MAID: Ein Massive Array of Idle Disks (MAID) ist ein System, das Hunderte verwendet
+oder Tausende von Festplatten für Nearline-Datenspeicherung
+ 
+ MAID ist für WORO-Anwendungen (Write Once, Read Occasionally) ausgelegt. Der
+Laufwerke auf dieser Festplatte drehen sich nur, wenn darauf zugegriffen wird. So gering die Datenmenge ist
+Wenn auf diese Festplatten zugegriffen wird, können sie nach Bedarf mit Strom versorgt werden, wodurch die
+Energie, die zum Betrieb verwendet wird, sowie die Verringerung der Wärmeentwicklung, die in
+wiederum reduziert die Kühlkosten. MAID hat die Speicherdichte erhöht und ist viel
+kostengünstiger, wodurch Strom und Kühlbedarf gespart werden. MAID-Lösung sind
+etwas langsam, der Datenzugriff kann einige Millisekunden bis zu 10 Sekunden dauern.
+Dieses System ermöglicht eine dichte Packung von Laufwerken, und zwar typischerweise nur 25 Prozent
+Die Festplatten drehen sich zu jeder Zeit. Verwendung von SATA-Laufwerken gemacht Architektur
+von MAID beliebter, da SATA-Festplatten so ausgelegt sind, dass sie je nach Bedarf gedreht werden können. So
+Es ist immer eine gute Lösung, die MAID-Architektur für die Speicherung zu verwenden, um zu erreichen
+Energieeffizienz. Power-managed RAID: Das RAID (redundantes Array von
+kostengünstige Datenträger) ist vor allem für seine Sicherheitsfunktionen bekannt. Ein typisches RAID
+verbraucht mehr Strom. Um dieses Problem zu lösen, wurde eine neue Form von RAID entwickelt
+eingeführt. Ein Power-managed RAID bietet Paritätsschutz, aber nur mit
+Einige der RAID-Festplatten sind tatsächlich eingeschaltet. Beim Schreiben von Daten werden nur die
+Parität und zugehörige Datenlaufwerke werden eingeschaltet. Beim Lesen von Daten werden nur die
+Die gelesene Festplatte muss eingeschaltet werden.
+ 
+Hier werden unterbrechungsfreie und sequentielle Lese-/Schreibvorgänge durch Staging erreicht
+die Daten auf ein sich ständig drehendes Laufwerk, während das nächste Laufwerk hochgefahren wird.
+Das Ergebnis ist, dass Ihr Unternehmen Hunderte von Terabyte an Speicher haben kann
+auf einer einzigen Grundfläche, was wiederum zu Energieeinsparungen führt.
+ 
+ 
+ 
+C. Was ist Umfragen? Ein Beispiel geben.
+Ans) Polling: Es ist der Prozess der automatischen Überprüfung, ob eine bestimmte Aktion stattgefunden hat
+genommen worden ist, zieht Strom von im Leerlauf befindlichen Computern, weil es automatisch
+weckt den Computer auf, um nach einem bestimmten Ereignis zu suchen. Jedes Mal eine Bewerbung
+nach etwas abfragt, erwacht die CPU aus einem Leerlaufzustand und verbraucht Strom.
+Polling ist der Vorgang, bei dem der Computer oder das Steuergerät auf eine wartet
+externes Gerät zur Prüfung auf Bereitschaft oder Zustand, oft mit Low-Pegel
+ Hardware. Wenn beispielsweise ein Drucker über einen parallelen Anschluss angeschlossen ist, wird die
+Computer wartet, bis der Drucker das nächste Zeichen empfangen hat. Diese
+Prozesse können so klein sein, dass sie nur ein Bit lesen. Dies wird manchmal verwendet
+synonym mit busy -wait polling. In dieser Situation, wenn eine I/O-Operation
+erforderlich ist, macht der Computer nichts anderes, als den Status der E/A zu prüfen
+Gerät, bis es bereit ist, woraufhin auf das Gerät zugegriffen wird. Mit anderen Worten,
+Der Computer wartet, bis das Gerät bereit ist. Polling bezieht sich auch auf die Situation
+wo ein Gerät wiederholt auf Bereitschaft geprüft wird, und wenn nicht, die
+Der Computer kehrt zu einer anderen Aufgabe zurück. Obwohl nicht so verschwenderisch an CPU-Zyklen wie
+Beschäftigtes Warten, dies ist im Allgemeinen nicht so effizient wie die Alternative zum Abrufen,
+Interruptgesteuerte E/A. Zum Beispiel 10 Polling-Aktionen, die innerhalb von 1 Sekunde stattfinden.
+Planen Sie sie so, dass sie unmittelbar nacheinander ausgeführt werden und nicht um
+verschiedene Male in dieser Zeit. Indem man sie zu ihr, dem Computer, gruppiert
+muss nur einmal aus einem Ruhezustand herauskommen, anstatt mehrmals.
+ 
+D. Nennen und erläutern Sie die Probleme in Bezug auf den Stromverbrauch und die Kühlkosten.
+Ans) Durch die Studien wurde bewiesen, dass in den meisten Fällen Kühlung
+verbraucht mehr Strom als für den Einsatz in der Verarbeitung in der IT-Branche (fast
+63 Prozent mehr). Es sollte also nicht übersehen werden. Wenn es nötig ist, wir
+Wir müssen herausfinden, wie viel genau wir für die Kühlung ausgeben müssen.
+Stromkosten
+Wir müssen wissen, wie die Energiekosten berechnet werden. Strom wird bezahlt
+für den Verbrauch pro Kilowattstunde (kWh). Dies ist ein Maß für die Stunde ly
+Verbrauch von elektrischer Energie.
+Kostenursachen
+Kühlung ist ein wesentlicher Bestandteil des Stromverbrauchs sowie der IT
+Budget. Es gibt viele Probleme in Bezug auf den Stromverbrauch und
+Kühlkosten wie folgt.
+• Wenn mehr Server und Speicher verwendet werden, erhöht sich der Stromverbrauch.
+• Da Berechnungen im großen Maßstab durchgeführt werden, wird eine größere Wärmemenge erzeugt
+im
+Server-Racks.
+• Es gibt eine Unregelmäßigkeit der Wärmelast im Rechenzentrum, verursacht durch schlechte
+Wärme planen
+Management.
+• Steigende Energiekosten.
+• Die Tendenz, Rechenzentren über die erforderliche Zeit hinaus zu kühlen. Berechnung des Kühlbedarfs
+Nahezu jedes Gerät im Serverraum erzeugt Wärme, einschließlich der Beleuchtung.
+Auch die Anzahl der im Serverraum arbeitenden Personen kann zunehmen
+die Hitze im Zimmer. Diese Wärmequellen tragen zur Wärmebelastung bei
+der Serverraum.
+Raumgröße
+Der komplette Raum muss gekühlt werden. Um den Kühlbedarf zu berechnen
+den Raum, verwenden Sie diese Formel:
+Raumfläche BTU = Länge (Meter (m)) × Breite (m) × 337
+ 
+Fenster
+Serverräume haben in der Regel keine Fenster. Wenn wir nicht haben
+Windows wird dann folgende Formel nicht verwendet. Aber falls vorhanden
+Die folgende Windows-Formel kann verwendet werden, um zu bestimmen, welche die meisten sind
+anwendbar auf Ihr Rechenzentrum:
+Südfenster BTU = Südfensterlänge (m) × Breite (m) ×
+870
+Nordfenster BTU = Nordfensterlänge (m) × Breite (m) ×
+165 Wenn keine Jalousien an den Fenstern vorhanden sind, multiplizieren Sie die Ergebnisse mit 1,5.
+Menschen im Raum
+Wenn Sie ständiges Personal im Serverraum haben, sinkt die Wärmelast
+bis etwa 400 BTU pro Person. Hier ist die Formel:
+BTU der gesamten Insassen = Anzahl der Insassen × 400
+ 
+e. Erklären Sie Warmgang (Pfad)/Kaltgang und Doppelböden.
+Antwort: Bei einem Kaltgang-Containment-Ansatz installiert das Rechenzentrum am Ende der Reihe
+Türen, Gangdecken oder vertikales Wandsystem, um die Klimaanlage aufzunehmen
+Luft, die Kühlsysteme in die kalten Gänge leiten. Dadurch wird sichergestellt, dass nur diese Luft
+fließt in die Lufteinlässe der im Rack montierten IT-Geräte. Das Rechenzentrum
+enthält den Kaltgang, um die kalte Luft drinnen und die warme Luft draußen zu halten.
+In einer Warmgang-Einhausung wird die heiße, damit die Präzisionsluft eingeschlossen
+Klimaanlage erhalten nur warme Luft aus den Gängen. Wieder das Rechenzentrum
+enthält die warmen Gänge, um die heiße Luft in diesem Gang und die kalte Luft draußen zu halten.
+Doppelboden in einem Rechenzentrum ist ein erhöhter Boden, der 2 Zoll bis 4 Fuß hoch ist
+über einem Betonboden. Es entsteht ein Raum, der zur elektrischen Kühlung genutzt werden kann
+und mechanische Dienstleistungen. In Rechenzentren werden Doppelböden auch als Mittel verwendet
+kalte Luft verteilen. Durch die Verwendung eines Doppelbodens reduzieren Einrichtungen nicht nur die
+Luftmenge, die zum Kühlen von Geräten benötigt wird, sie benötigen auch weniger Energie und
+Verbesserung der Temperaturverteilung über alle Schränke.
+ 
+ 
+ 
+F. Auflisten und Erklären von Problemen beim Design und bei der Entscheidungsfindung von Rechenzentren.
+Ans) Rechenzentrumsdesign
+Die Kühllösungen für die Rechenzentren können gemäß optimiert werden
+Gestaltung des Rechenzentrums. Wir können die benötigte Kühlmenge reduzieren
+nur durch Auswahl des richtigen Designs unseres Rechenzentrums und Bereitstellung
+Kühllösungen mit geeigneten Methoden.
+Zentralisierte Steuerung
+ Das kundenspezifische zentrale Lüftungssystem ist die beste Lösung für
+Kühlung. Dieses System hat mehrere Vorteile gegenüber dem Vielfachen
+verteiltes Einheitensystem, wie unten aufgeführt.
+ Bessere Effizienz.
+ Kann überschüssige und redundante Kapazität nutzen.
+ Einheiten arbeiten in Kombination miteinander, statt zu kämpfen
+gegen einander.
+ Verwendet flüssigkeitsgekühlte Kälteanlagen, die viel effizienter sind
+als wasser- und luftgekühlte Rechenzentren.
+ Weniger Wartung erforderlich.
+Design für Ihren Bedarf
+Es ist immer besser, ein System zu haben, das unseren Bedürfnissen und Lösungen am besten entspricht
+dafür. Leider ist der Strombedarf unserer Rechenzentren selten genau richtig
+passen sie brauchen. Sie sind meist zu leicht beladen.
+Es gibt verschiedene Möglichkeiten, die Größe zu korrigieren, es ist wichtig, so nah wie möglich heranzukommen
+mit elektrischen und mechanischen Systemen, damit sie noch einwandfrei funktionieren
+wenn sie unterlastet sind, aber immer noch für größere Lasten skalierbar sind. Wir können
+Erreichen Sie dies, indem Sie die folgenden Punkte berücksichtigen:
+• Erweitern Sie die Kanal-, Plenum- und Rohrleitungsinfrastruktur. Dies reduziert
+Betriebskosten und ermöglicht ein gewisses Maß an Zukunftssicherheit.
+• Verwenden Sie Motorantriebe mit variabler Drehzahl für Kühler, Kühler und Kondensatoren
+Wasserpumpen. Verwenden Sie außerdem Kühlturmventilatoren, um bei Teillast zu helfen
+Leistung. Dies kann besonders hilfreich sein, wenn es als pa gesteuert wird rt von a
+abgestimmtes Kühlsystem.
+• Untersuchen Sie effiziente Entwurfstechniken, wie z. B. mittlere Temperatur
+Kühlkreisläufe und fluidseitige Economizer.
+• Der Energieverbrauch des Kühlturms ist typischerweise ein kleiner Teil der Energie
+Verbrauch. Wenn wir die Kühltürme erhöhen, können wir den Kühler verbessern
+Leistung und Flüssigkeit -Seite
+ 
+Sparer. Obwohl dies mit höheren Kosten im Voraus und einem größeren verbunden ist
+physischer Fußabdruck, sondern führt zu Einsparungen bei den Betriebskosten.
+Alles zusammenfügen
+Nur das Kühlgerät zu bekommen, wird nicht als effiziente Kühlung bezeichnet. Wir haben
+in größerem Maßstab für die gesamte Organisation zu denken. Organisation weit
+Überlegungen müssen umgesetzt werden, einschließlich Design und Entscheidung
+Probleme machen. Dazu gehören: • Nutzung der Lebenszykluskostenanalyse als Teil des Entscheidungsfindungsprozesses.
+• Alle Beteiligten einbeziehen, um das Team im Projekt zusammenzuhalten.
+• Dokumentieren und klären Sie die Gründe für wichtige Designentscheidungen.
+• Setzen Sie berechenbare Ziele auf der Grundlage von Best Practices.
+• Führen Sie die Energieoptimierung so früh wie möglich in der Entwurfsphase ein
+die zu behalten
+projektorientiert und um die Kosten gering zu halten.
+• Integration von Überwachung, Messung und Steuerung in die Einrichtung
+Design.
+• Untersuchen und vergleichen Sie bestehende Einrichtungen und verfolgen Sie dann die Leistung.
+• Sehen Sie sich die Daten noch einmal an und suchen Sie nach Verbesserungsmöglichkeiten
+Leistung.
+• Bewerten Sie das Potenzial für die Stromerzeugung vor Ort.
+• Stellen Sie sicher, dass alle Mitglieder des Betriebspersonals der Einrichtung standortspezifisch informiert werden
+Ausbildung,
+einschließlich der Identifizierung und des ordnungsgemäßen Betriebs von Energieeffizienzfunktionen.
+ 
+ 
+F.3
+a. Nennen und erläutern Sie die Entscheidungspyramide mit ihren Ebenen.
+Ans) Am unteren Ende der Pyramide steht das Individuum und die Spitze repräsentiert das
+Globale Gemeinschaft. Die Entscheidungen, die bei einem getroffen werden, haben Einfluss auf den nächsten
+eben.
+ 
+ 
+ 
+ 
+ 
+ 
+1. Globale Aktionen: Die Entscheidungen an beiden Enden der Länder auf der ganzen Welt
+beschäftigen sich mit der weltweit steigenden CO2-Konzentration. Viele
+Organisationen und NGOs arbeiten zusammen, um die Auswirkungen von CO2 zu beseitigen
+der Globus. Z. B. UN und internationale Organisationen, internationale NGO’s etc.
+ Global
+National
+Stadt
+Gebäude
+Individuelle 2. Nationale Politik: Nationale Politiken sind darauf vorbereitet, die CO2-Konzentration zu reduzieren.
+Sie formulieren Regeln und Vorschriften zur Verbesserung des Globus.
+B. Swachh Bharat Abhiyan, Plastikverbot, Thermocol-Verbot sind die nationalen
+Politik in Indien.
+ 
+3. Stadt: Die lokale Regierung hat verschiedene Programme zum Umgang mit dem CO2-Gehalt
+Sie koordinieren verschiedene Kampagne-Sweet-Shows auf nationaler Ebene
+und Vortragsseminar werden durchgeführt, um ein Bewusstsein für CO2 zu schaffen
+Emissionsauswirkungen auf den Globus. Beispielsweise lokale Regierungsorganisationen wie BMC
+usw.
+ 
+4. Bauen: Bauen ist der Ort, an dem echtes Handeln stattfindet. hier viele
+Die Leute sprechen über Design, Technologie, Materialien und verschiedene Themen
+im Zusammenhang mit CO2.
+ 
+5.Individual: Individuelle Aktionen sind tägliche Aktivitäten, die eine indirekte Wirkung haben
+Auswirkungen auf den Globus. Daher Maßnahmen wie die Minimierung des Wasserverbrauchs,
+Reduzierung des Stromverbrauchs, Recycling von Abfallprodukten Nutzung öffentlicher Verkehrsmittel
+Fahrgemeinschaften gehen für einen gesunden Lebensstil. Diese Maßnahmen können die Emission von reduzieren
+CO2.
+ 
+ 
+ 
+b.Welche Dinge sind für einen umweltfreundlichen Einkaufsplan erforderlich?
+Ans) (i) Visitenkarten: Die Visitenkarten können auch auf Recyclingpapier gedruckt werden
+Papier.
+(ii) Tüten: Verwenden Sie Papiertüten anstelle von Plastiktüten, da diese nicht biologisch sind -
+abbaubar.
+(iii) Papier: Die Organisationen können sich für Recyclingpapier anstelle von Markenpapier entscheiden
+Händler nennen.
+(iv) Hausmeister-Reinigungsprodukte: Die Organisation kann chlorfreie Produkte kaufen
+Produkte, die zur Reinigung verwendet werden, da sie weniger schädlich sind.
+(v) Farbe: Farbe kann giftige Schwermetalle enthalten, die flüchtige organische Stoffe abgeben
+Verbindungen (wie Xylene) können Unternehmen daher null oder niedrig kaufen
+Farben auf Basis flüchtiger organischer Verbindungen oder natürliche Farben. (vi) Lebensmittel: Anstelle von Plastik- oder Thermobechern sollten Sie sich für biologisch abbaubare Produkte entscheiden
+Food-Service-Welle.
+ 
+ 
+ 
+c.Wie finde ich heraus, welches Produkt einen niedrigen Toxingehalt hat?
+   Ans) Die Inhaltsstoffe in Hausmeister-Reinigungsprodukten können Augen sofort verbrennen,
+Haut und Lunge. Der Verbraucher muss herausfinden, welche Produkte niedrige Gehalte an enthalten
+Giftstoffe für eine gesunde Reinigung. Um dies herauszufinden, kann die folgende Beobachtung gemacht werden
+Welches Produkt enthält geringe Mengen an Toxinen:
+1. Lesen Sie beim Kauf das Produktetikett und das Datenblatt zur Materialsicherheit
+Produkt.
+2. Überprüfen Sie die Liste von institutionellen Reinigungsprodukten, die gewesen sind
+zertifiziert durch das Grüne Siegel.
+3. Die Website des öffentlichen Dienstes für Informationsblätter zur sicheren und effektiven Reinigung
+Techniken.
+4. Fragen Sie den Hersteller oder Verkäufer nach weniger giftigen Alternativen
+Produkt ist
+verfügbar.
+ Lesen Sie die Bewertung auf der Website, bevor Sie das Produkt kaufen
+ 
+d.Welche Dinge sind erforderlich, um in der Organisation papierlos zu werden?
+Antwort: Die papierlose Organisation spart Geld, Zeit und erhöht sich
+Effizienz und Effektivität in der Arbeit. Planung für eine papierlose Organisation sein kann
+in folgenden Schritten ausgeführt:
+ Implementieren Sie eine papierlose Dokumentenablage.
+ Umstellung auf papierlose Meetings.
+ Verwenden Sie elektrische Kommunikation.
+ Dokumente scannen.
+ Wechseln Sie zu digitalen Belegen.
+ Investieren Sie in energieeffiziente Bürogeräte.
+ Verwenden Sie elektronische Signaturen.
+ 
+ 
+ 
+  e.Wozu dient Microsoft Office Share Point Server 2007? Listen Sie es auf
+Merkmale
+Antwort) Microsoft Office SharePoint Server 2007
+Ein Microsoft Office SharePoint Server (MOSS) ist eine robuste Lösung als CMS.
+Damit können wir die Informationen unserer Organisation zentral verwalten und pflegen
+Es. Es ist für unsere Mitarbeiter über einen Webbrowser zugänglich. Es unterstützt alles
+Intranet-, Extranet- und Webanwendungen auf einer Plattform, wodurch die Notwendigkeit entfällt
+von mehreren kleinen Systemen. Es verbessert auch die Gesamtproduktivität durch Vereinfachung
+alltägliche Aufgaben.
+Merkmale
+Das MOSS wird verwendet, um mit Microsoft Office-Anwendungen, E-Mail oder Web zu arbeiten
+Browser in der Organisation. Einige der Funktionen von MOSS umfassen:
+• Die Möglichkeit, den Zugriff zu kontrollieren: Dies ermöglicht uns, ein kundenspezifisches Dokument zu erstellen
+Verwaltungsrichtlinien zur Steuerung der Zugriffsrechte. Der Zugriff kann pro verwaltet werden
+Artikelbasis; Wir können auch die Aufbewahrungsfrist und Ablaufaktionen verwalten.
+• Zentrale Verwaltung: Es hilft, alle unsere Dokumente zu speichern und zu verwalten
+Inhalte an einem zentralen Ort. Dies hilft beim Auffinden von Dokumenten.
+• Inhaltsverwaltung: Enthält Masterseiten und Seitenlayouts, die
+Vorlagen einschließen, die es uns ermöglichen, unseren Inhalten ein einheitliches Aussehen zu verleihen. Wir können
+veröffentlichen Sie auch Inhalte von einem Bereich zum anderen.
+• Arbeiten Sie in der gesamten Organisation: Die Inhalte, die in einem Teil der erstellt werden
+Organisation einfach in das System integriert und im Dokument hinterlegt werden
+Bibliotheken oder Webdienste. Dadurch vermeiden wir Doppelarbeit
+Fehler dadurch, dass Sie diese Daten manuell erneut eingeben müssen.
+ 
+F. Was ist Wertschöpfungsnetzwerk? Nennen Sie seine Vorteile.
+Ans) Mehrwertnetzwerke
+Ein VAN ist ein privater Netzwerkanbieter, der von einem Unternehmen beauftragt wird, um die elektronische Kommunikation zu erleichtern
+Datenaustausch (EDI) und/oder bieten andere Netzwerkdienste wie Nachrichtenübermittlung an
+Verschlüsselung, sichere E-Mail und Verwaltungsberichte. Ein Mehrwert-Netzwerk
+(VAN) vereinfacht den Kommunikationsprozess durch Reduzierung der Anzahl von
+Parteien, mit denen ein Unternehmen kommunizieren muss. Der VAN leistet
+dies, indem sie als Vermittler zwischen Geschäftspartnern auftreten, die teilen
+auf Standards basierende oder proprietäre Daten. VANs können von großen betrieben werden
+Unternehmen für ein effizientes Supply Chain Management mit ihren Lieferanten oder durch
+Industriekonsortien oder Telekommunikation.
+Zu den Vorteilen der Verwendung eines VAN gehören: • Das Warnsystem VANs kann Organisationen auf Übertragungsprobleme aufmerksam machen oder
+Lieferscheine.
+• Die Archivspeicher-VANs können kritische Geschäftsdaten für längere Zeit speichern
+Zeiträume.
+• Audit-Trail-Informationen einschließlich Setup, Konfiguration und Dokument
+Übertragungsereignisse können geprüft werden.
+• Datenlieferung in Echtzeit Daten können in Echtzeit statt in Echtzeit geliefert werden
+Batches, wodurch eine schnellere Reaktion auf Übertragungen ermöglicht wird.
+• Zuverlässige und sichere Übertragungs-VANs stellen sicher, dass die Daten eines Unternehmens
+sicher übermittelt und beim Empfänger ankommt.
+ 
+ 
+F.4
+A. Erklären Sie die Recyclingprobleme in China und Afrika.
+Antwort: Der globale Müllhalde für Elektroschrott ist China und Afrika. Hier
+Wir werden über Elektroschrott diskutieren, der zu einem großen Problem für China geworden ist
+Afrika und über die Giftstoffe, die in Computern stecken, die verantwortlich machen
+Recycling so wichtig.
+China
+Das Elektroschrottproblem in China war in letzter Zeit das Thema der Schlagzeilen
+Jahre. Normalerweise werden 80 Prozent des Elektroschrotts von Amerika nach China verschifft
+jedes Jahr. Mit ihnen senden auch Kanada, Japan und Südkorea
+ihren Elektroschrott nach China. Die Größe des Elektroschrotts, der jedes Jahr von den USA exportiert wird
+China ist größer als eine Fußballplatzfläche zu verbrauchen. Es wird nach exportiert
+Guiyu, China.
+Das Recycling von Elektroschrott ist ein großes Geschäft in Guiyu und es gibt ungefähre Angaben ly
+80 Prozent Beschäftigung für die Völker. Hier Trennung von Kupfer, Gold,
+und andere Materialien aus dem Elektroschrott erfolgt durch das Herunterfallen von Motherboards
+in Säurebäder, Kunststoffgehäuse von Monitoren schleifen und grillen
+Komponenten über offenem Kohlefeuer. Deshalb hat die Stadt das größte Dioxin
+Ebenen auf dem Planeten. Nach der Demontage fällt eine Tonne Computerschrott an
+mehr Gold als 17 Tonnen Gold. Leiterplatten können 40-mal reicher sein
+Kupfer als Kupfer.
+Afrika Afrika steht auch vor dem gleichen Problem des Verbrauchs von Elektroschrott. Im Ikeja
+Computer Village, in der Nähe von Lagos, Nigeria, verkaufen viele Anbieter
+reparierte Produkte aus dem Elektroschrott wie Computer, Faxgeräte,
+Mobiltelefone und andere Geräte.
+Es hört sich so an, als würde Elektroschrott hier positiv wiederverwendet, aber tatsächlich
+75 Prozent der an das Computer Village gelieferten Elektronik sind es
+nicht reparierbar.
+Nigeria hat einen guten Reparaturmarkt, aber es fehlt ein System, mit dem man sicher umgehen kann
+Elektroschrott. Der größte Teil des Elektroschrotts landet auf Deponien und inoffiziell
+Deponien. Als solche sickern Giftstoffe in die Erde.
+Und wenn Plastikgehäuse verbrannt werden, mischen sie krebserregende Dioxine und
+polyaromatische Kohlenwasserstoffe (PAK) in die Luft, was sehr gefährlich ist
+für die Gesundheit.
+Jeden Monat werden ca. 500 Schiffscontainer mit Gebrauchtem befüllt
+elektronische Geräte passieren Lagos. Jeder Container kann verpackt werden
+mit einer Belastung von:
+• 800 Computermonitore
+• 800 CPUs
+• 350 große Fernsehgeräte
+Aus dem Material sind fast 75 Prozent dieses Materials nicht reparierbar.
+Derzeit sind afrikanische Importeure damit zufrieden, kleine Gewinne zu erzielen
+mit den wenigen Gegenständen, die sie wieder herstellen und verkaufen können, ohne sich darum zu kümmern
+nutzloses Material auf Mülldeponien zu werfen.
+ 
+B. Wie bestimmt man die Langlebigkeit des Systems?
+Ans) Laut den Autoren Toby und Anthony Velte ist das Leben eines Systems
+basierend auf drei Faktoren.
+Nutzungsdauer: Sie drückt die Lebensdauer des Gerätes aus, in der eventuell
+Das Gerät ist abgenutzt und kann nicht mehr repariert werden.
+Technologisches Leben: Ein System kann unpraktisch werden, um es sogar zu warten
+obwohl es noch repariert und gewartet werden kann. Zum Beispiel vielleicht nicht
+möglich sein, den richtigen Typ von Speicherchips für das System zu finden
+weil sie nicht mehr hergestellt werden. Eine andere Möglichkeit, dies zu betrachten, ist
+Veralten.
+Nutzungsdauer: Ein System ist zwar noch funktionstüchtig, aber die Nutzung kostet zu viel. Es kann auch sein, dass neuere Systeme gekauft werden können, die das haben
+niedrigere Betriebskosten, so dass die Amortisationszeit dafür sorgt
+Kauf ist kurz.
+ 
+C. Welche Vorteile bietet das Leasing der Geräte?
+Ans) Halten Sie Ihre Ausrüstung auf dem neuesten Stand: Da sich die Technologie ändert
+Die Computer veralten schnell. Finanziell wird man nicht
+Belastung für die Veralterung von Computern. Nach Ablauf des Mietvertrages kann man
+Computer wechseln und nach neuen Deals suchen können.
+Planbare monatliche Ausgaben: Sie wissen immer, was Sie ausgeben
+an Ihren Maschinen, weil Sie bereits einen Deal ausgehandelt haben und Sie
+wissen, was Sie bezahlen.
+Niedrige (oder keine) Vorabkosten: Die niedrigen Vorabkosten senken die a
+Anzahlung
+Wettbewerbsfähig bleiben: Wenn es wichtig ist, dass Sie technologisch bestehen
+gleich (oder besser) als Ihre Konkurrenten, Leasing gibt Ihnen die Möglichkeit dazu
+Holen Sie sich in regelmäßigen Abständen die neueste und beste Ausrüstung.
+Insgesamt mehr zahlen: Man muss aufpassen, dass Leasing nicht wird
+teurer als direkter Kauf.
+Ein Deal ist ein Leasing-Deal, man muss die Geräte auch dann bezahlen, wenn man selbst
+Benutze keine Geräte mehr. Wenn sich Ihr Geschäft ändert oder gemietet wird
+Ausrüstung wird nicht mehr benötigt, aber du machst das immer noch monatlich
+Zahlungen.
+ 
+D. Schreiben Sie eine kurze Notiz zur Umweltbewertung elektronischer Produkte
+Tool (EPEAT)-Zertifizierung.
+Ans) Die Zertifizierungsprogramme treffen alle Vorkehrungen vor der Veröffentlichung
+des Produkts auf dem Markt. Der Verbraucher muss den Füllstand überprüfen
+Zertifizierung vor dem Kauf eines Produkts.
+EPEAT ist eine Zertifizierungsorganisation der US-Regierung. Es
+macht es obligatorisch, die Ausrüstung mit EPEAT-Zertifizierung zu kaufen
+Markierung auf dem Gerät. Es hat Leistungskriterien aufgestellt, die sein müssen
+am Produkt vorbeigegangen. EPEAT vergibt je nach Produkt eine Bewertung
+das die Kriterien erfüllt. Es gibt Zertifizierungsstufen wie Bronze, Silber und Gold.
+ Bronze : Ein Produkt, das alle erforderlichen Kriterien erfüllt.  Silber : Produkt, das alle Kriterien erfüllt, plus bei l Osten 50% optional
+Kriterien, die für die zu registrierenden Produkte gelten.
+ Gold : Produkte, die alle Kriterien plus mindestens 75 % der optionalen Kriterien erfüllen
+die für das zu registrierende Produkt gelten.
+Die EPEAT führt eine Liste zertifizierter Geräte im Bereich Bronze, Silber
+und g alt auf ihrer Website.
+ 
+e. Was ist Blade-Server? Nennen Sie seine Vorteile.
+Antwort: Ein Blade-Server ist ein Servergehäuse, in dem mehrere dünne, modulare Gehäuse untergebracht sind
+elektronische Leiterplatten, bekannt als Server Blades. Jeder Blade ist ein Server
+eigenständig, oft einer einzigen Anwendung gewidmet.
+Die Blades sind buchstäblich Server auf einer Karte, die Prozessoren enthalten,
+Speicher,
+integrierte Netzwerkcontroller, ein optionaler Fibre Channel Host Bus
+Adapter (HBA) und andere Input/Output (I/O)-Ports.
+Die Hauptfunktion von Blade-Servern besteht darin, die unseres Unternehmens zu steigern
+Rechenzentrumsfunktionen, ohne seine Größe zu erhöhen
+Zu den Vorteilen des Blade-Servers gehören:
+1. Weniger Platzbedarf
+Rotorblätter nehmen 35 bis 45 Prozent weniger Platz ein als turm- oder schienenmontierte
+Server.
+2. Reduzierung des Stromverbrauchs
+Sie reduzieren die benötigten Netzteile.
+3. Niedrigere Verwaltungskosten
+Wenn Sie Ihre Server, Bereitstellung, Verwaltung und
+Verwaltung vereinfacht und verbessert.
+ 
+F. Wozu dient Remotedesktop? Erklären Sie seine Bestandteile.
+Antwort) Remotedesktop kann für folgenden Zweck verwendet werden:
+1. Um Thin Clients mit Strom zu versorgen:
+Remote Desktop kann verwendet werden, um Ihre Thin Clients mit dem Server zu verbinden.
+2. Um die Lebensdauer bestehender Maschinen zu verlängern:
+Remote Desktop ermöglicht dem Benutzer den Zugriff auf alles auf der Fernbedienung
+Computer einschließlich Dateien, Anwendungen und Netzwerkverbindungen. Fernbedienung
+Desktop ermöglicht dem Benutzer nicht nur den Zugriff auf die Dateien des Remote-Computers,
+aber der Desktop erscheint genauso wie auf dem Remote-Rechner. Es gibt
+zwei
+Komponenten zu einer Remotedesktopverbindung :
+a.Server: Alle Maschinen verbinden sich mit entfernten Computern.
+b.Client: Der Computer, den Sie verwenden, um Ihre Verbindung mit dem aufzubauen
+Server.
+ Remotedesktop ist ein Programm oder eine Betriebssystemfunktion, die
+ermöglicht dem Benutzer, sich mit einem Computer an einem anderen Ort zu verbinden.
+ Bevor Sie Remote Desktop verwenden können, müssen Sie sich vorbereiten
+Ihre Server- und Client-Computer.
+             Eine Remotedesktopverbindung besteht aus zwei Komponenten:
+          • Server: Das ist der entfernte Computer, mit dem wir uns verbinden wollen.
+          • Client: Dies ist der Computer, den wir für unsere Verbindung mit dem verwenden
+Server.
+  1. Remotedesktopserver
+Wir müssen die Anzahl der Benutzer angeben, die für einen Remotedesktopserver zulässig sind
+den Zeitpunkt der Konfiguration, damit die Autorisierung erreicht werden kann. Diese Benutzer
+Konten müssen Passwörter haben. Wenn das Passwort nicht vorhanden ist, müssen wir es tun
+erstelle es.
+Wenn wir unseren Server für Remote Desktop konfigurieren, müssen wir den Benutzer eingeben
+Kontoname, wenn Windows nach dem Objektnamen in Select Users fragt
+Dialogbox.
+2. Remotedesktop-Client
+Sie können einen Microsoft Remote Desktop-Client verwenden, um eine Verbindung zu einem Remote-PC herzustellen und
+Ihre Arbeitsressourcen von fast überall mit fast jedem Gerät. Du
+Sie können sich mit Ihrem Arbeits-PC verbinden und haben Zugriff auf alle Ihre Apps, Dateien und
+Netzwerkressourcen, als ob Sie an Ihrem Schreibtisch sitzen würden. Sie können Apps geöffnet lassen
+bei der Arbeit und sehen Sie dann dieselben Apps zu Hause – alles mit dem RD-Client
+ 
+ 
+F.5
+A. Wie trennt CRM die Mitarbeiter der Organisation in Gruppen? Antwort) Als Kunde haben Sie nur eine Organisation mit einem Namen, ohne
+Kenntnisse über unsere Tätigkeit in unserem Unternehmen haben. Der
+Kunden wissen genau, dass, wenn sie etwas kaufen,
+jemand muss die Zahlung bearbeiten, das Produkt für den Versand verpacken
+und den eigentlichen Versand durchführen.
+Das Customer Relationship Management (CRM) ist eine Philosophie von
+Koordination zwischen allen Beteiligten in einer Organisation, so dass die
+Der Kunde wird gut bedient und hat die bestmögliche Erfahrung als unser Kunde
+Kunde.
+CRM unterteilt die Mitarbeiter unserer Organisation in die folgenden Gruppen:
+• Kundenorientierte Operationen: Dies sind die Menschen und Technologien a
+Kundenerfahrungen, wenn er oder sie mit dem Unternehmen interagiert. Das
+kann persönliche Interaktionen, Telefonanrufe, Instant Messaging,
+Web-Chats, E-Mail und so weiter
+her. Dies kann auch Kioske und Web-Self-Service umfassen.
+• Interne kollaborative Funktionsabläufe: Dies sind die Personen und
+Technologien, die die Unternehmensrichtlinien und das Backoffice unterstützen
+Operationen, die eine schlimme haben ct Auswirkungen auf die Aktivitäten des Kunden
+Facing Operations-Gruppe. Dazu gehören IT, Abrechnung, Wartung, Planung,
+Marketing, Finanzen und Fertigung.
+• Funktionen für externe Zusammenarbeit: Diese Personen und Technologien
+Unterstützung der Organisation bei der Entwicklung von Beziehungen nach außen
+Gruppen. Zu diesen Gruppen gehören Lieferanten, Anbieter, Händler und Lobbyisten
+Gruppen und Wirtschaftsverbände.
+• Kundenanwälte und Erlebnisdesigner: Das sind die Menschen
+und Technologien, die dazu beitragen, dem Kunden einen Mehrwert zu bieten und zu profitieren
+die Organisation.
+• Leistungsmanager und Marketinganalysten: Das sind die Leute
+und Technologien, die Key Performance Indicators entwerfen und erheben
+Metriken und Daten, die helfen, CRM auf Kurs zu halten. Das ist die Gruppe, die
+legt Meilensteine ​​und Daten fest
+um festzustellen, ob der CRM-Prozess effektiv ist.
+  
+• Kunden- und Mitarbeiterbefrager und Analysten: Das sind die Menschen
+und Technologien, die darüber entscheiden, ob Kunde und Mitarbeiter
+Beziehungen werden besser oder schlechter.
+  B. Welche Schritte sind für ein gutes umweltfreundliches Beschaffungsprogramm erforderlich?
+Ans) Die Schritte zur Umsetzung eines Programms zur umweltgerechten Beschaffung
+sind wie folgt.
+• Holen Sie sich organisatorische Unterstützung: Die Richtlinien und Verfahren der Organisation
+geändert werden müssen, um einer solchen Änderung Rechnung zu tragen. Die Verantwortlichen
+für Kaufentscheidungen müssen in die Umsetzung einbezogen werden
+weil ihre Anregungen und Unterstützung wichtig sind.
+• Führen Sie eine Selbstbewertung durch: Wir müssen unseren aktuellen Einkauf bewerten
+Praktiken Methoden Ausübungen. Dies wird uns helfen, den Start-Benchmark zu erreichen und auch zu klären
+was wir kaufen, wie viel wir kaufen, woher es kommt und
+wie viel kostet es. Dies wird uns helfen, den Erfolg unseres Grüns zu messen
+Beschaffungsbemühungen.
+• Ziele setzen: Wir müssen uns große Ziele setzen, die spezifische Maße haben.
+• Eine Strategie entwickeln: Wir müssen einen Plan machen, um unsere Ziele zu erreichen.
+Wir müssen ermitteln, wie wir die notwendigen Änderungen umsetzen werden, um dies zu erreichen
+diese Ziele. Du brauchst
+müssen kurz- und langfristige Lösungen dafür.
+• Führen Sie ein Pilotprojekt durch: Wir sollten lieber mit einem kleinen Projekt beginnen
+direkt
+auf einmal umsetzen. Wenn es gelingt, können wir für alle gehen.
+• Umsetzung des Plans: Nachdem der Einkauf abgeschlossen ist, müssen wir es tun
+zuordnen
+Rechenschaftspflicht und Entwicklung eines Kommunikationsplans, der anspricht
+Mitarbeiter,
+Kunden, Lieferanten, Partner und die Öffentlichkeit.
+• Überprüfung des Programms: Wir müssen unsere umweltfreundliche Beschaffung bewerten
+Programm an
+regelmäßig. Überprüfen Sie konsequent, ob der Plan seinen Angaben entspricht
+Ziele und Zielsetzungen.
+ 
+C. Erklären Sie den vierstufigen Übergangsprozess.
+Antwort: Es ist wunderbar zu sagen, dass viele Unternehmen auf Grün umgestiegen sind
+Praktiken, aber die Wahrheit ist, dass Unternehmen damit begonnen haben, diese zu übernehmen
+Praktiken wegen der w, die von Unternehmen verlangt, bestimmte zu erreichen
+Niveau der Umwelt. Das heißt, Mese-Praktiken werden als a angenommen
+Anfangs ein Compliance-Problem, aber jetzt gehen Unternehmen über das hinaus, was erforderlich war. Dieser Übergang von der Compliance zur Färbbarkeit ist ein vierstufiger Schritt
+Verfahren:
+Compliance: Viele Organisationen begannen mit ihrem umweltfreundlichen Verhalten
+weil es das Gesetz war, dem sie folgen mussten. Das Ziel war nur zu
+ein gewisses Maß an Umweltverantwortung erreichen, weil
+Compliance-Probleme.
+Persönliches Engagement: Die Organisation kann nur so engagiert sein
+Umweltfreundlichkeit als CEO oder Leiter der Organisation.
+Wenn Leiter oder CEO die Organisation verlassen, gibt es Chancen, die grün sind
+Initiativen werden aus dem Fenster gehen. Also brauchte es diesen Begriff des Seins
+grün sollte von der gesamten Organisation und nicht nur vom CEO unterzeichnet werden
+die Organisation.
+Öffentliches Vertrauen verdienen: Öffentliches Vertrauen ist eine Frage der Markenbildung
+Attraktivität. Werbung für grüne Bemühungen der Organisation ist eine gute Idee
+aber das muss durch tatsächliche Aktionen unterstützt werden.
+Nachhaltiges Wachstum: Sobald die grünen Ziele erreicht sind, identifizieren Sie die
+Möglichkeiten, sich neue Ziele zu setzen, grüne Produkte zu entwickeln, Energie zu steigern
+Effizienz, Abfall reduzieren und kritische Ressourcen schonen.
+ 
+D. Schreiben Sie eine Notiz zu SMART-Zielen.
+Antwort: Ziele sind Teil jedes Aspekts des Geschäfts/Lebens und geben einen Sinn
+Richtung, Motivation, einen klaren Fokus und die Wichtigkeit verdeutlichen. Indem man es einstellt
+Ziele, Sie geben sich selbst ein Ziel vor, das Sie anstreben können. Ein SMARTes Ziel
+wird verwendet, um die Zielsetzung zu unterstützen. SMART ist ein Akronym, das für steht
+Spezifisch, messbar, erreichbar, realistisch, und rechtzeitig. Daher ein
+Das SMART-Ziel beinhaltet alle diese Kriterien, um Ihnen zu helfen, Ihre Bemühungen zu fokussieren
+und erhöhen Sie die Chancen, Ihr Ziel zu erreichen.
+SMARTe Ziele sind:
+Spezifisch: Gut definiert, klar und eindeutig.
+Messbar: Mit spezifischen Kriterien, die Ihren Fortschritt messen
+die Erreichung des Ziels.
+Erreichbar: Erreichbar und nicht unmöglich zu erreichen.
+Realistisch: In Reichweite, realistisch und relevant für Ihren Lebenszweck.
+Zeitnah: Mit einem klar definierten Zeitplan, einschließlich eines Startdatums und a
+Zieltermin. Der Zweck besteht darin, Dringlichkeit zu schaffen.
+ 
+  e.Welche Schritte sind erforderlich, um ein Energieaudit durchzuführen?
+Ans) Um ein Energieaudit durchzuführen, müssen wir die folgenden Schritte befolgen:
+• Stellen Sie Ihr Team zusammen: Wir müssen ein Team zusammenstellen
+Erfahrung und Kenntnis aller energieverbrauchenden Systeme, Prozesse u
+Ausrüstung. Wir können unsere Systemspezialisten und Anlagentechniker einsetzen,
+aber wir können feststellen, dass wir dafür einen externen Experten beauftragen müssen
+Objektivität und Sachverstand.
+• Planen und entwickeln Sie eine Strategie: Finden Sie heraus, zu welchen Systemen wir gehen
+bewerten und dann Teammitglieder zuweisen, um diese Aufgaben auszuführen. Verwenden
+Benchmarking-Informationen zur Identifizierung von Einrichtungen und Systemen, bei denen dies nicht der Fall ist
+richtig durchführen.
+• Erstellen Sie einen Bericht: Erstellen Sie basierend auf unseren Prüfungsergebnissen einen detaillierten Bericht
+Zusammenfassung der Maßnahmen, die ergriffen werden können, um den Energieverbrauch zu reduzieren. Der Bericht
+sollte auch Maßnahmen empfehlen, die umgesetzt werden sollten.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+                                                    Papier 3
+Q.1
+A. Erklären Sie, wie sich Green Computing auf Kosteneinsparungen auswirkt.
+ANS: -Kosteneinsparungen Wenn Green Computing-Praktiken richtig befolgt werden, können Einsparungen erzielt werden
+Millionen Rupien einer Organisation. Ökologisch verantwortliches Handeln muss
+adoptiert werden. Für Green Computing werden die Anfangsinvestitionen jedoch höher sein
+Schließlich werden wir nicht nur Geld sparen, sondern auch dazu beitragen, das zu erhalten
+Umfeld.
+1. Hardware Wir können die Kosten für Hardware reduzieren, indem wir einfach weniger kaufen
+Ausrüstung
+ 
+ a) Die Schritte unternehmen, die Belohnungen gewinnen: Servervirtualisierung nutzen, um
+Reduzieren Sie den Energieverbrauch, um Geld zu sparen und die Umwelt weniger zu belasten
+b) Verwenden Sie, was Sie haben: Bevor Sie eine neue Ausrüstung kaufen, gehen Sie noch einmal
+durch unser altes Inventar und alte Deponie-Elektronikelemente.
+ 2. Strom Sparen von Strom spart Geld und Geld
+Umfeld.
+a) Desktops: Die Leistung kann effektiv in Desktop-Computern genutzt werden
+Aktivieren der Energieverwaltungseinstellungen
+ b) Rechenzentren: Die Zunahme von Servern und Netzwerkinfrastruktur hat
+verursachte einen starken Anstieg des Stromverbrauchs im Rechenzentrum. Wo verwenden
+Kosten für intelligente Schalter können eingespart werden.
+ c) Verbrauch: Durch die ordnungsgemäße Organisation des physischen Raums, um die Kühlung zu reduzieren
+Lasten zur Verwendung einer energieeffizienten Stromversorgung.
+B. Wie können sich Hardwarebereitstellungen auf die Umgebung auswirken?
+Antwort: Es gibt eine Reihe von Möglichkeiten, bestimmte Hardware und Hardware zu finden
+Bereitstellungen können sich auf die Umgebung auswirken. Wir können die Kosten für Hardware reduzieren
+einfach weniger Ausrüstung kaufen. Schritte unternehmen, Belohnungen gewinnen: Die Vanderbilt University in Nashville und der Bundesstaat Oregon haben begonnen
+Rechenzentrums-Virtualisierungsprojekte und erwarten bis dahin Einsparungen in Millionenhöhe
+wenn die Projekte abgeschlossen sind. Informationstechnologiedienste von Vanderbilt
+Unternehmen nutzen Servervirtualisierung, um ihren Energieverbrauch zu senken und Einsparungen zu erzielen
+Geld und weniger Umweltschäden. Verwenden Sie, was Sie haben: Jedes Mal
+Bevor Sie neue Geräte kaufen, gehen Sie noch einmal unseren alten Bestand durch
+und alte elektronische Elemente. Wenn wir etwas gefunden haben, das wiederverwendet werden kann
+und energetisch saniert werden, tun Sie das zuerst. Wir können einen älteren nehmen
+Computer und verwandeln Sie ihn in einen Thin Client für die Verarbeitungs- und Speicheraufgaben
+auf dem Server durchgeführt, da der Client nur genügend Leistung benötigt, um dies zu können
+anzeigen, was auf dem Server vor sich geht. Ein Thin Client verbraucht 15 Watt Energie
+statt der 150 Watt, die Workstations im Durchschnitt verbrauchen. Wenn wir tun
+unsere Energierechnung wird also zehnmal niedriger sein als jetzt
+c.Welche Schritte sind für die Messung des CO2-Fußabdrucks erforderlich?
+Antwort: Ein CO2-Fußabdruck ist definiert als: Die Gesamtmenge an Treibhausgasen
+produziert, um menschliche Aktivitäten direkt und indirekt zu unterstützen, normalerweise ausgedrückt
+in äquivalenten Tonnen Kohlendioxid (CO2). In wenigen Organisationen Kohlenstoff
+Fußabdruck könnte bedeuten, dass alles gezählt wird – Beschaffung von Materialien,
+Herstellung, Vertrieb, Verwendung, Entsorgung usw H. Messen Messen
+des CO2-Fußabdrucks ist eine zeitaufwändige Aufgabe. Folgende Schritte können dafür verwendet werden.
+Schritt 1 . Definieren Sie die Grenze für Ihren CO2-Fußabdruck Wir müssen die überwachen
+Jahr für Jahr wird der CO2-Fußabdruck verarbeitet, daher ist es sehr wichtig, einen zu haben
+Regeln, die über den Umfang der zu erledigenden Arbeiten zu befolgen sind. Unser primäres Ziel ist es
+den CO2-Ausstoß reduzieren, wenn wir den CO2-Fußabdruck nicht definieren
+Boundary kann Vergleiche mit Benchmarks behindern und könnte dies auch
+eine aussagekräftige Überwachung der Leistung untergraben. Es gibt drei Arten von
+Grenzen: Typ 1: Operative Kontrolle: Mit diesem Ansatz jede Operation
+unserer Organisation/Unternehmen wird in der CO2-Bilanz erfasst. Das auch
+umfasst die Lieferkette, wenn eine Organisation eine ausreichende operative Kontrolle darüber hat
+Lieferanten. Typ 2: Finanzkontrolle: Bei diesem Ansatz sind alle Finanzelemente
+inbegriffen. Oftmals schließt dies Elemente aus, die unser Unternehmen aber betreiben darf
+nicht finanziell kontrollieren und daher kann die Verwendung dieses Ansatzes zu einem geringeren Ergebnis führen
+CO2-Fußabdruck. Typ 3: Eigenkapitalkontrolle: Dieser Ansatz umfasst alle Elemente
+die unser Unternehmen besitzt. Wenn unser Unternehmen Teileigentum hat, dann die
+Anteilsbesitz wird verwendet, um den relevanten CO2-Fußabdruck zu berechnen
+dieser Gesellschaft zuzurechnen. Schritt 2. Entscheiden Sie, welche Emissionen in den Geltungsbereich aufgenommen werden: Geltungsbereich bezieht sich auf
+die in einem CO2-Fußabdruck erfassten Emissionsarten. Der Umfang einer
+Der CO2-Fußabdruck einer Organisation gliedert sich ebenfalls in drei Komponenten.
+Scope-1-Emissionen: Dies sind direkte Emissionen von Vermögenswerten, die beides sind
+Eigentum unseres Unternehmens (d.h. Flottenfahrzeugemissionen aus dem Verbrauch von
+Kraftstoff) oder Emissionen, die durch eine Aktivität vor Ort entstehen (d. h. Emissionen aus der
+Verbrennung von Erdgas im Boiler eines Unternehmens). Scope-2-Emissionen: Scope 2
+umfasst alle indirekten Emissionen oder genauer gesagt die daraus abgeleiteten Emissionen
+Produktion von zugekauftem Strom. Hier hat das Unternehmen nicht wirklich produziert
+die mit der Stromerzeugung verbundenen Emissionen sind jedoch auf die
+Verbrauch von Strom für Beleuchtung, Geräte usw. Wir können sagen, dass unsere
+Die Organisation ist indirekt für diese Emissionen verantwortlich. Scope-3-Emissionen:
+Scope 3 umfasst alle anderen indirekten Emissionen, die nicht aus der
+Verbrauch des zugekauften Stroms. Dazu gehört eine breite Palette von Emissionen
+Quellen wie Abfall, Verbrauchsmaterialien, Pendelverkehr der Mitarbeiter, Emissionen in der Lieferkette,
+Wasserverbrauch usw.
+Schritt 3 . Definieren Sie Ihren CO2-Fußabdruck Zeitraum Ein CO2-Fußabdruck ist typisch
+über einen Zeitraum von einem Jahr gemessen. Bei der Auswahl unseres Zeitraums für
+Messung ist es am besten, an andere Berichtszyklen zu denken, die als verwendet werden können
+den festgelegten Zeitrahmen. Schritt 4. Verwenden Sie einen praktischen Ansatz, um jährliche Daten zu sammeln
+Sobald wir unsere Grenze und die Art der Emissionen definiert haben, zu denen wir gehen werden
+erfassen, müssen wir dann Daten zu allen Elementen sammeln, die wir verwenden werden
+CO2-Emissionen messen (z. B. Strom- und Gasverbrauch, Fahrzeugkilometer,
+Abfallmenge usw.)
+d.Beschreiben Sie die Funktionen des Basler Aktionsnetzwerks.
+Antwort: Das Basler Aktionsnetzwerk (BAN) ist eine Non-Profit-Organisation, die
+agiert weltweit. Es konzentriert sich auf die Arbeit mit den Menschenrechten und
+Umweltauswirkungen von Elektroschrott. Es arbeitet auch daran, den Handel mit Abfällen zu verbieten und
+Förderung einer umweltfreundlichen, schadstofffreien Gestaltung von Konsumgütern. BAN führt diese durch
+breite funktionen:
+ • Es bietet Informationen zum Abfallhandel für Journalisten, Wissenschaftler und
+die breite Öffentlichkeit durch Verwendung von E-Mail, Newsletter und elektronischen Aktionsbenachrichtigungen.
+ • Es leistet auch internationale politische Interessenvertretung. BAN arbeitet mit United zusammen
+Nationen (UN), Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)
+und das Chemikalienprogramm und der EZB-Rat des UN-Umweltprogramms (UNEP). Es hat auch nationale Mustergesetze zum Handel mit giftigen Abfällen erstellt
+für Entwicklungsländer.
+• BAN führt Feldforschungen und Untersuchungen in Entwicklungsländern durch und
+bietet Foto- und Videodokumentation des Elektroschrotthandels.
+ • BAN beteiligt sich mit NGOs auf der ganzen Welt an Kampagnen zur Bekämpfung von Giftstoffen
+handeln.
+e.Erwähnen Sie die Schritte, die China unternommen hat, um sein eigenes Elektroschrottproblem zu lösen?
+Antwort: China ist das Hauptziel eines Großteils des weltweiten Elektroschrotts. Die Chinesen
+Regulierung wird normalerweise als China RoHS bezeichnet. China RoHS, enthält eine Liste von
+enthaltene Produkte, die als Katalog bezeichnet werden. Produkte:
+Es gibt viele Produkttypen, die nicht Teil der EU-RoHS sind
+Geltungsbereich der China RoHS. Was beinhaltet th Folgendes:
+• Automobilelektronik
+ • Radarausrüstung
+ • Medizinische Geräte
+ • Halbleiter- und Fertigungsanlagen, Komponenten und einige Rohmaterialien
+Materialien
+ • Einige Verpackungsmaterialien Produkte, die nach China versandt werden, müssen entsprechend gekennzeichnet werden
+ob die Artikel konform oder nicht konform sind. Die elektronischen Informationen
+Das Produktlogo (EIP) oder ein anderes Etikett wird verwendet, um Teile zu kennzeichnen, die keine haben
+inakzeptable Konzentrationen von Substanzen, die von China RoHS aufgeführt sind. Materialien: Produkte
+die gefährliche Stoffe enthalten, müssen mit dem EIP-Logo gekennzeichnet sein und
+einen EPUP-Wert (Environmental Protection Use Period) in Jahren angeben.
+China RoHS verbietet die folgenden Substanzen:
+ • Blei • Quecksilber
+ • Cadmium
+ • Sechswertiges Chrom
+ • Polybromierte Biphenyle (PBBs)
+ • Kennzeichnung mit polybromiertem Diphenylether (PBDE): Die anfängliche Anforderung ist
+für eine Kennzeichnung und Offenlegung einer der sechs oben genannten gefährlichen Substanzen und ihrer Positionen innerhalb des Produkts. Etiketten müssen enthalten
+folgende Information:
+ • Ob das Produkt einen der sechs gefährlichen Stoffe enthält. Wenn sie
+vorhanden sind, muss auch die „Environment-Friendly Use Period“ (EFUP) vorliegen
+festgestellt und angezeigt
+. • Offenlegung, welche gefährlichen Stoffe im Produkt enthalten sind und
+die Komponente(n), in denen sie enthalten sind.
+ • Verpackungsmaterial muss auf der Außenverpackung ausgewiesen werden.
+ • Das Herstellungsdatum. Die Vorschriften wurden noch nicht umgesetzt,
+ihre formelle Annahme wurde zweimal verschoben. Es gibt keinen formellen Zeitplan
+zur Vervollständigung des Katalogs
+ 
+ 
+F. Wofür steht STEP? Erklären Sie die Ziele von STEP.
+ANS : - Da Elektroschrott ein internationales Anliegen ist, haben die Vereinten Nationen eine Führungsrolle übernommen
+und implementierte das Programm zur Lösung des Elektroschrottproblems (StEP). STEP ist es nicht
+soll als strenge Organisation missverstanden werden, die das Amt überwacht
+Gebäude, in denen CRTs unsicher entsorgt werden. Stattdessen ist StEP ein Programm
+wo Unternehmen, staatliche Organisationen, akademische Einrichtungen,
+Nichtregierungsorganisationen (NGOs) und gemeinnützige Organisationen in der Umgebung
+Die Welt kann teilnehmen. Um sich bei StEP zu engagieren, muss eine Organisation
+verpflichten sich zu einer aktiven und produktiven Mitarbeit im StEP-Programm. Schritte
+Hauptziele sind wie folgt (Jahr 2016):
+1. Forschung und Pilotierung: Die Überwindung des Elektroschrottproblems erfordert
+Wissen, Führung und Handeln. Durch die Durchführung und Weitergabe wissenschaftlicher
+Forschung trägt Step dazu bei, eine effektive Politikgestaltung zu gestalten. Forschung ist auch der Schlüssel
+zur Reduzierung oder zum Ersatz von Ressourcen, die in der Fertigung verwendet werden. Durch die Förderung der
+Generierung von Problemlösungsideen kann Step deren Umsetzung unterstützen
+und ihre Wirkung analysieren.
+2. Strategie und Zielsetzung: Während das übergeordnete Ziel die Eliminierung von e -
+Abfall als Problem, es gibt Realitäten, die auf dem Weg dorthin angenommen werden müssen. Teer bekommt,
+Ziele und Strategien müssen die unterschiedlichen Gegebenheiten berücksichtigen
+unterschiedlichen Jurisdiktionen und Märkten. Ein wichtiges strategisches Ziel ist es, durch eine erweiterte Mitgliedschaft Proaktivität auf dem Markt zu fördern und a
+robuste Finanzierungsbasis zur Unterstützung der Aktivitäten.
+3. Schulung und Entwicklung: Steps globaler Überblick über E-Waste-Themen macht es möglich
+der offensichtliche Anbieter von Schulungen zum Thema Elektroschrott. Die Step EWaste Academy
+bringt unterschiedliche Teilnehmergruppen zusammen und schult sie in Schlüsselfragen. A
+Der Lehrplan wird mit dem ultimativen Ziel definiert, den Step E-Waste zu erweitern
+Akademie.
+ 4. Kommunikation und Markenbildung: Markenkommunikation und -bekanntheit sind von entscheidender Bedeutung,
+sowohl innerhalb der Mitgliedschaft als auch in der gesamten Branche. Einer von
+Die Prioritäten von Step bestehen darin, sicherzustellen, dass Mitglieder, potenzielle Mitglieder und
+Gesetzgeber werden alle auf die Art und das Ausmaß des Problems aufmerksam gemacht
+Entwicklungsmöglichkeiten und wie Step zur Lösung des Elektroschrotts beiträgt
+Problem.
+F.2
+A. Erklären Sie MAID und RAID.
+ANTWORT: - MAID: Ein Massive Array of Idle Disks (MAID) ist ein System, das verwendet
+Hunderte oder Tausende von Festplatten für Nearline-Datenspeicherung.
+ 
+ 
+ 
+ MAID ist für WORO-Anwendungen (Write Once, Read Occasional) konzipiert. Der
+Laufwerke auf dieser Festplatte drehen sich nur, wenn darauf zugegriffen wird. So gering die Datenmenge ist
+Wenn auf diese Festplatten zugegriffen wird, können sie nach Bedarf mit Strom versorgt werden, wodurch die
+ Strom, der für den Betrieb verwendet wird, sowie die Reduzierung der Wärmeentwicklung, was in
+wiederum reduziert die Kühlkosten. MAID hat die Speicherdichte erhöht und ist viel
+kostengünstiger, wodurch Strom und Kühlbedarf gespart werden. MAID-Lösung sind
+etwas langsam, seine Daten Der Zugriff kann einige Millisekunden bis zu 10 Sekunden dauern.
+Dieses System ermöglicht eine dichte Packung von Laufwerken, und zwar typischerweise nur 25 Prozent
+Die Festplatten drehen sich zu jeder Zeit. Verwendung von SATA-Laufwerken gemacht Architektur
+von MAID beliebter, da SATA-Festplatten so ausgelegt sind, dass sie nach Bedarf gedreht werden können. So
+Es ist immer eine gute Lösung, die MAID-Architektur für die Speicherung zu verwenden, um zu erreichen
+Energieeffizienz.
+ Power-Managed RAID: Das RAID (redundante Anordnung kostengünstiger Festplatten) ist
+vor allem für seine Sicherheitsfunktionen bekannt. Ein typisches RAID verbraucht mehr Strom.
+Um dieses Problem zu lösen, wurde eine neue Form von RAID eingeführt. Eine Kraft -
+verwaltetes RAID bietet Paritätsschutz, jedoch nur bei einigen der RAID-Festplatten
+eigentlich eingeschaltet. Wenn Daten geschrieben werden, nur die Parität und die zugehörigen Daten
+Laufwerke werden eingeschaltet.
+ 
+Wenn Daten gelesen werden, muss nur die gelesene Platte eingeschaltet werden. Hier
+Unterbrechungsfreie und sequentielle Lese-/Schreibvorgänge werden durch Staging der
+Daten auf ein sich ständig drehendes Laufwerk, während das nächste Laufwerk hochgefahren wird. Der
+Das Ergebnis ist, dass Ihre Organisation Hunderte von Terabyte an Speicher in einem haben kann
+Single Footprint, was wiederum zu Energieeinsparungen führt.
+B. Wie Computermonitoreinstellungen Energie sparen?
+Die Computermonitore verbrauchen maximale Energie. Sogar neue Monitore können das
+verbrauchen 100 W Strom, wenn sie eingeschaltet sind. Im Schlafmodus verwenden sie normalerweise 5
+W oder weniger. Monitore so einstellen, dass sie nach einer bestimmten Zeit automatisch in den Ruhemodus wechseln
+Nichtnutzung ist eine schnelle und einfache Möglichkeit, Kosten zu senken. Auch alle LCD-Modelle sind es nicht
+Energiesparer. Es ist immer besser zu wissen, wie viel Leistung unser Monitor hat
+ zieht vor dem Kauf. Einstellungen: Normalerweise nehmen wir an, Monitore auszuschalten
+Wenn nicht in Gebrauch. Wir können auch einige andere Einstellungen zum Energiesparen verwenden, z
+wie das Einstellen der richtigen Helligkeit des Bildschirms, das Auswählen des richtigen Farbschemas, nicht
+Verwenden von Bildschirmschoner-Animationen usw. Die folgende Tabelle zeigt die Energie
+verbraucht, damit Farbe angezeigt werden kann
+Bildschirm im Durchschnitt.
+ 
+ 
+Deutlich sichtbar ist, dass Weiß und helle Farben bis zu 20 Prozent mehr verbrauchen können
+Macht als schwarz oder dunkle Farben.
+C. Was ist Umfrage? Nenne Beispiele.
+Polling: Es ist der Prozess der automatischen Überprüfung, ob eine bestimmte Aktion stattgefunden hat
+genommen zieht Strom aus im Leerlauf befindlichen Rechnern, weil es den automatisch aufweckt
+Computer, um nach einem bestimmten Ereignis zu suchen. Jedes Mal, wenn eine Anwendung abfragt
+etwas, die CPU erwacht aus einem Leerlaufzustand und verbraucht Strom. Umfrage ist
+der Prozess, bei dem der Computer oder das Steuergerät auf ein externes wartet
+Gerät, um seine Bereitschaft oder seinen Zustand zu überprüfen, häufig mit Low-Level-Hardware. Für
+Wenn beispielsweise ein Drucker über eine parallele Schnittstelle angeschlossen ist, wartet der Computer
+bis der Drucker das nächste Zeichen empfangen hat. Diese Prozesse können z
+Minute als nur ein Bit lesen. Dies wird manchmal synonym mit verwendet
+ beschäftigt - Abfrage abwarten. Wenn in dieser Situation eine E/A-Operation erforderlich ist, wird die
+Der Computer tut nichts anderes, als den Status des E/A-Geräts zu prüfen, bis dies der Fall ist
+bereit, an welcher Stelle auf das Gerät zugegriffen wird. Mit anderen Worten, der Computer
+wartet, bis das Gerät bereit ist. Polling bezieht sich auch auf die Situation, in der a
+Das Gerät wird wiederholt auf Bereitschaft geprüft, und wenn nicht, der Computer
+kehrt zu einer anderen Aufgabe zurück. Obwohl nicht so verschwenderisch an CPU-Zyklen wie beschäftigt
+Warten, dies ist im Allgemeinen nicht so effizient wie die Alternative zum Abfragen, Unterbrechen -
+getriebene E/A. Zum Beispiel 10 Polling-Aktionen, die innerhalb von 1 Sekunde stattfinden. Zeitplan
+sie so, dass sie unmittelbar nacheinander ausgeführt werden und nicht zu verschiedenen Zeiten
+während dieser Periode. Durch die Gruppierung muss der Computer nur noch kommen
+aus einem Ruhezustand einmal, anstatt mehrmals .
+D. Wie erreicht man die richtige Luftfeuchtigkeit?
+Eine höhere Luftfeuchtigkeit kann die Ausrüstung von Rechenzentren zerstören. Sogar sehr weniger
+Feuchtigkeitsniveau kann auch nicht für die Geräte geeignet sein. Also müssen wir
+Aufrechterhaltung und Verwaltung des richtigen Feuchtigkeitsniveaus in unserem Arbeitsbereich.
+ Die folgenden Tipps können uns dabei helfen, die richtige Luftfeuchtigkeit zu erreichen
+. • Legen Sie einen Zeitplan für die Kalibrierung (Anpassung) des Feuchtigkeitssensors fest: Die Feuchtigkeit
+Sensoren können im Laufe der Zeit schlechte Messwerte liefern, daher ist eine häufige Durchführung erforderlich
+Anpassungen regelmäßig, mehr noch als Temperatursensoren. Auch,
+Falsche Feuchtesensoren fallen weniger auf als falsche
+Temperatursensoren. Legen Sie daher einen Zeitplan für häufige Tests und Kalibrierungen fest
+unsere Feuchtigkeitssensoren
+. • Berücksichtigen Sie Sensorredundanz: Kaufen Sie eine ausreichende Anzahl von Sensoren
+Maß bezüglich der Luftfeuchtigkeit des Rechenzentrums. Um eine strenge Kontrolle zu gewährleisten, mehrfach
+Sensoren verwendet werden sollen. Verwenden Sie mindestens zwei, aber mehr sind besser. •
+Verwalten Sie die Luftfeuchtigkeit mit einer speziellen Einheit: Wenn belüftete Luft verwendet wird (möglicherweise von
+ein luftseitiger Econ omizer), steuern die Luftfeuchtigkeit mit einem einzigen Lüftungsgerät.
+ • Economizer bei Bedarf sperren: Bei Verwendung eines luftseitigen Economizers
+Minimieren Sie die zugeführte Luftmenge, wenn der Taupunkt niedrig ist. Das
+spart Geld für die Befeuchtung der trockenen Luft.
+ • Feuchtigkeitskontrolle zentralisieren: Jedes Rechenzentrum sollte seine eigene Zentralisierung haben
+Feuchtigkeitskontrollsystem. Mehrere Systeme können sich gegenseitig beeinflussen
+wirken und zu Wirkungsverlust führen
+e. Wie kann die Rückführung von Geräteabgasen verhindert werden? Die neuen Geräte sind im Allgemeinen energieeffizient, ihre Kühlung kann es jedoch sein
+von anderen alten Geräten absorbiert. Dadurch können sich alle Geräte unnötig erwärmen.
+Beispielsweise kann Netzwerkausrüstung alleine heiß genug werden und tut es nicht
+Hilfe von seinem Nachbarn braucht, muss es seinen Nachbarn nicht einheizen. Aber
+Mit ein paar Tipps können wir verhindern, dass Abgase von anderen resorbiert werden
+Geräte:
+1. Warmgang/Kühlgang: Passen Sie das oben erwähnte Design des Warmgangs/Kühlgangs an
+in diesem Kapitel.
+2. Starre Gehäuse: Entscheiden Sie sich für einen unveränderlichen Ort, um die Abwärme fernzuhalten
+zurück in die Kühllufteinlässe des Geräts gesaugt.
+3. Flexible Streifenvorhänge: Verwenden Sie flexible Streifenvorhänge, um die offene Luft darüber zu blockieren
+Racks, die in einem Warmgang/Kühlgang-Layout konfiguriert wurden.
+4. Blockieren Sie ungenutzte Rack-Plätze mit Leerzeichen: Die Geräte werden normalerweise kühl
+Luft von vorne und bläst sie hinten wieder aus. Blanking (Machen Sie eine Stelle zum Passieren
+der Luft) offene Bereiche unter Geräten verhindern das Ansaugen der Abgase
+wieder in das Gerät.
+ 5. Design mit Blick auf Kühlung: Einige Geräte saugen keine Luft an
+vorne und lass es hinten raus. Einige haben eine Entladung von oben oder von Seite zu Seite
+Entwürfe. In dieser Situation können wir Racks so konfigurieren (umgestalten), dass
+Das Gerät bläst nicht in den Einlass anderer Geräte. 6. Wählen Sie aus
+Racks mit guter Luftzirkulation: Wir müssen Racks kaufen, die keine haben
+interne Struktur, die den reibungslosen Luftstrom zu den Geräten blockieren würde.
+F. Geben Sie die Vorteile eines kundenspezifischen zentralisierten Luftbehandlungssystems an.
+Das kundenspezifische zentrale Lüftungssystem ist die beste Lösung für die Kühlung.
+Dieses System hat mehrere Vorteile gegenüber dem System mit mehreren verteilten Einheiten,
+wie unten aufgeführt.
+  Bessere Effizienz.
+  Kann überschüssige und redundante Kapazität nutzen.
+ Units arbeiten in Kombination miteinander, anstatt gegeneinander zu kämpfen
+andere.
+  Verwendet flüssigkeitsgekühlte Kälteanlagen, die viel effizienter sind als
+wasser- und luftgekühlte Rechenzentren.
+  Es ist weniger Wartung erforderlich.
+Design für Ihre Bedürfnisse Es ist immer besser, ein System zu haben, das unseren Bedürfnissen entspricht
+Lösungen, die dafür am besten geeignet sind. Leider werden unsere Rechenzentren nur selten mit Strom versorgt
+genau die Passform, die sie brauchen. Sie sind meist zu leicht beladen. Es gibt Möglichkeiten
+richtige Größe, es ist wichtig, so nah wie möglich an elektrische und heranzukommen
+mechanische Systeme so, dass sie auch unter Last noch einwandfrei funktionieren, aber dennoch für größere Lasten skalierbar sind. Wir können dies erreichen, indem wir Folgendes berücksichtigen
+wenige Probleme
+: • Ausbau der Kanal-, Plenum- und Rohrleitungsinfrastruktur. Dies reduziert den Betrieb
+Kosten und ermöglicht ein gewisses Maß an Zukunftssicherheit
+. • Verwenden Sie Motorantriebe mit variabler Drehzahl für Kühler, Kühl- und Kondensatorwasser
+Pumps. Verwenden Sie außerdem Kühlturmlüfter, um die Teillastleistung zu verbessern. Das
+kann besonders hilfreich sein, wenn sie im Rahmen einer koordinierten Kühlung gesteuert wird
+System.
+• Untersuchen Sie effiziente Konstruktionstechniken, wie z. B. Kühlen bei mittlerer Temperatur
+Kreisläufe und fluidseitige Economizer. • Der Energieverbrauch von Kühltürmen beträgt typischerweise a
+kleiner Teil des Energieverbrauchs. Wenn wir die Kühltürme erhöhen, können wir das
+Verbessern Sie die Kühlerleistung und fluidseitige Economizer. Obwohl dies beinhaltet
+höhere Vorabkosten und eine größere physische Stellfläche, werden aber Einsparungen bringen
+Betriebskosten
+ 
+ 
+F.3
+A. Welche Möglichkeiten gibt es, den Wasserverbrauch in Organisationen zu kontrollieren?
+Die Verwendung von Wasser ist ein großes Thema, das für den Ökologisierungsprozess berücksichtigt werden kann
+unsere Organisation. Wie viel wir in dieser Hinsicht können, hängt davon ab, wie viel
+Wasser verwendet wird. Zum Beispiel verbrauchen Ämter in städtischen Gebieten im Allgemeinen weniger
+Wasser, während in ländlichen Gebieten der Wasserverbrauch steigt, da Büros verschönert werden
+mit umgebendem Gras Rasen. Die folgenden Tipps helfen uns, die Verwendung zu kontrollieren
+von Wasser: • Dokumentieren Sie unsere Wartung und Upgrades an Armaturen.
+ • Überwachen Sie unseren Wasserverbrauch. Führen Sie daher wöchentlich ein Protokoll der Zählerstände
+dass Verbrauchsstellen beurteilt und Reparaturen zeitnah durchgeführt werden können.
+• Installieren Sie Hilfsmittel zur Erkennung von Lecks und zur Wassereinsparung, wie z. B. isolierte Messgeräte
+und Absperrventile zu jedem Gerät oder jeder Vorrichtung. Regenabschalteinrichtungen sind
+besonders hilfreich, wenn wir Gras zum Gießen haben.
+ • Ermitteln Sie Durchflussraten, Spülmengen und den täglichen Wasserverbrauch. Legen Sie einen Plan fest
+um den Wasserverbrauch zu reduzieren. • Installieren Sie Vorrichtungen mit geringem Durchfluss. Wenn wir bereits Vorrichtungen mit niedrigem Durchfluss haben, machen Sie weiter
+ihre Wartung.
+ • Wenn wir ein Bewässerungssystem haben, berücksichtigen Sie diese Probleme, um dies zu verhindern
+verschwendetes Wasser. • Inspizieren Sie unser Eigentum regelmäßig auf Undichtigkeiten. Lecks reparieren
+sobald sie erkannt werden.
+ • Überprüfen Sie unsere Bewässerungssysteme monatlich und suchen Sie nach Problemen.
+ • Sprinklerköpfe brechen regelmäßig und können monatelang unbemerkt bleiben
+. • Passen Sie die Bewässerungspläne an die Bedürfnisse der Pflanzen an. • Erwägen Sie, zu bekommen
+Rasen entfernen und Pflanzen anbringen
+. • Unkraut früh in der Saison pflücken. Gras und Unkraut sind beide riesige Wasser
+Verbraucher.
+ • Wenn wir irgendwelche tropischen Pflanzen haben, stellen Sie sicher, dass sie mit Pflanzen gruppiert sind, die das sind
+einen ähnlichen Wasserbedarf haben.
+• Einjährige Pflanzen sollten nach einem separaten Zeitplan gegossen werden. Ihre Wurzeln sind flacher
+und müssen häufiger gegossen werden, aber in geringeren Mengen.
+b.Welche Dinge sind notwendig, um Lieferanten nach ihrem Niveau zu bewerten?
+Verantwortung für die Umwelt?
+ANS: - Wir müssen auch von unseren Lieferanten mit den Änderungen rechnen. Wenn wir
+bewerten Lieferanten nach ihrem Maß an Umweltverantwortung, wir
+müssen sich um folgende Dinge kümmern.
+• Welche Umweltwerte hat der Lieferant? Wie werden sie gemessen
+und erzwungen?
+• Verfügt der Lieferant über ein Umweltmanagementsystem?
+• Wer ist für die Umweltleistung verantwortlich? Ist es nur die
+Umweltpersonal des Lieferanten oder sind es alle Mitarbeiter?
+• Hält der Lieferant bundesstaatliche, bundesstaatliche und lokale Umweltvorschriften ein
+Gesetze?
+• Ist der Lieferant bereit, unsere Umwelt zu verstehen und mit ihr zu arbeiten
+Ziele?
+• Hat der Lieferant Anstrengungen unternommen, um Produkte mit zu entwerfen und herzustellen
+die Umwelt im Auge?
+• Wie effizient ist der Lieferant im Umgang mit Ressourcen, Materialien und Energie, wie
+Also
+Als Recycling und Vermeidung von Umweltverschmutzung?
+• Wird der Lieferant seine Produkte oder Verpackungen am Ende ihrer zurückfordern
+nützliche Leben?
+All die oben genannten Dinge können nicht von jedem Lieferanten befolgt werden. Aber
+Wir können unsere Anforderungen betonen, dies wird das Bewusstsein unter uns verbreiten
+der Zulieferer. Außerdem werden wir von den Bemühungen der Lieferanten erfahren, die sich treffen
+unsere eigenen umweltfreundlichen Beschaffungsbedürfnisse oder nicht und wie gut sie mit unseren übereinstimmen
+Unternehmenskultur.
+Kommunizieren Sie während des Beschaffungsprozesses mit Ihren Lieferanten und überwachen Sie diese
+Compliance und Fortschritt müssen wir klar festlegen und vermitteln
+Erwartungen an unsere Lieferanten. Es wird ein guter Anfang sein und Uns helfen
+reibungslose Durchführung von Green Sourcing . Wir müssen auch den Lieferanten machen
+verstehen, was sie bereitstellen müssen und woran sie gemessen werden
+unser Platz. Dies stellt sicher, dass sie das bereitstellen, was wir wollen und sind
+Einführung der Prozesse zur Erreichung der Compliance.
+Dazu kann beispielsweise gehören, wie Lieferanten recyceln sollen
+weggeworfene Materialien, dass sie weniger giftige Chemikalien verwenden müssen, und so weiter
+Sie schaffen Produkte, die sich für weniger Abfall leicht zerlegen lassen und
+leichteres Recycling.
+C. Intranet beschreiben? Wie baut man es?
+ANS: - Ein Intranet ist ein privates Netzwerk, das in einem enthalten ist
+Unternehmen. Es kann aus vielen miteinander verbundenen lokalen Netzwerken bestehen und
+auch Standleitungen im Wide Area Network nutzen. Typischerweise ein Intranet
+umfasst Verbindungen über einen oder mehrere Gateway-Computer zum
+außerhalb des Internets. Der Hauptzweck eines Intranets besteht darin, Unternehmen zu teilen
+Informationen und Computerressourcen unter den Mitarbeitern. Ein Intranet
+kann auch verwendet werden, um die Arbeit in Gruppen zu erleichtern und z
+Telekonferenzen. Durch die Nutzung des Intranets unserer Organisation können alle Mitarbeiter
+Zugriff auf ihre Dokumente von überall im Büro. brauchen wir auch nicht
+das Handbuch nachzudrucken; Senden Sie einfach eine E-Mail an unsere Mitarbeiter
+dass die Änderung im Handbuch veröffentlicht wurde. Intranets reduzieren die Menge an Papier, die intern verwendet wird. Die Dateien, die auf der Public
+Internet zugänglich sind für niemanden sind Dateien in unserem privaten Intranet nur
+Zugänglich für uns und unsere Mitarbeiter.
+Aufbau eines Intranets:
+ 
+Wenn wir uns für eine organisatorische Intranet-Einrichtung entscheiden müssen, braucht es einige
+spezifische Hardware sowie Software. TeileWir brauchen die folgenden vier
+Komponenten für die Einrichtung des Intranets wie in der nächsten Abbildung gezeigt:
+• Lokales Netzwerk (LAN): Für die Einrichtung benötigen wir eine LAN-Architektur
+Intranet.• Webserver: Intranet ist nichts anderes als eine interne Website. Für
+Um die Website zu betreiben, benötigen wir einen Webserver. Außerdem müssen wir unsere hosten
+Website lokal auf dem Webserver. Die zwei beliebtesten Webserver wir
+kann als Apache und Microsoft Internet Information Server (IIS) verwendet werden.
+Die folgende Tabelle vergleicht diese beiden. Auch können wir unser Web auslagern
+Hosting, das weniger kostspielig und viel einfacher ist. Oft liefern Anbieter
+einfach zu bedienende Sicherheits- und andere Tools und Vorlagen, damit wir eine einrichten können
+sicheres Intranet schnell.
+ 
+• Webbrowser auf Client-PCs: Für den Zugriff auf die von uns benötigte Intranet-Website
+Webbrowser-Software wie Internet Explorer oder Firefox.
+• Software zur Entwicklung von Webseiten: Wir müssen eine Website entwickeln
+verwenden
+ 
+HTML und unterstützende Webtechnologien. Installation von Apache
+Der Webserver ist einfach, aber nach der Installation erfordert er viel Konfiguration
+getan werden. Für eine bessere Verwaltung von Webservern können wir auf die verweisen
+Handbücher für beide Webserver. Intranet in dieser Form ist großartig für lokale
+Benutzer, aber es kann auch aus der Ferne für die Personen zugegriffen werden, die es sind
+Arbeiten von zu Hause aus für unsere Organisation. Wir können dies erreichen, indem wir a verwenden
+Virtual Private Network oder eine sichere WAN-Verbindung.Inhalt
+ManagementsystemeDie Websites oder das Intranet sind die dynamischen Einheiten.
+Wir sollten ein Content Management System (CMS) installieren, um einfach hinzufügen zu können,
+Inhalte löschen und aktualisieren. Ein CMS macht die Intranetpflege viel
+einfacher und kann von jemandem mit einem sehr begrenzten Hintergrund durchgeführt werden
+Mit HTML öffnet sich die Rolle des Content-Managements zu einem breiteren
+Bereich der Benutzer.
+Ein CMS ermöglicht unter anderem Folgendes: • Hinzufügen neuer Inhalte
+• Entfernen alter Inhalte
+• Bessere Organisation der Daten auf der Website
+• Verwalten von Texten, Artikeln, Dokumenten, Dateien und anderen Mitteilungen
+• Verwalten von Bildern und anderen Elementen
+Es gibt viele kostenlose CMS-Lösungen für beide Windows
+und Linux. Die Windows-CMS umfassen Community Server und
+DotNetNuke. DotNetNuke ist in der folgenden Abbildung dargestellt: Das Linux
+unterstützt eine Vielzahl bekannter CMS-Lösungen wie Drupal, Joomla,
+Mambo, Moodle, Post Nuke und Xoops. Die folgende Abbildung zeigt Joomla
+Schnittstelle. Sobald unsere Website eingerichtet ist, müssen wir sie für unsere Benutzer erkunden
+für seine Nützlichkeit. Wir müssen regelmäßig Umfragen machen, um herauszufinden, was
+Menschen am nützlichsten finden und was ihnen hilft, besser informiert zu sein und
+effizient.
+ 
+D. Was ist Telearbeit? Erklären Sie kurz.
+ANS: -Telearbeit ist eine Arbeitsvereinbarung, in der der Arbeitnehmer arbeitet
+außerhalb des Büros. Es trägt dazu bei, unsere Umweltbelastung zu reduzieren. Der Bürgermeister
+Das Problem bei der Nutzung von Telearbeit besteht darin, die Menschen dazu zu bringen, sich darauf zu einigen
+verwenden. Hier könnte der Arbeitnehmer daran interessiert sein, es zu verwenden, das Management jedoch möglicherweise
+zögern, es umzusetzen. Telearbeit wird oft fälschlicherweise als eine wahrgenommen
+Urlaub und Arbeitnehmer, die ihren Teil der Arbeit nicht leisten müssen. Aber das ist es
+nicht die Tatsache. Die Forschungsorganisation IDC gab an, dass 8,9 Millionen
+Amerikaner arbeiteten 2004 mindestens 3 Tage im Monat zu Hause. Das ist nur a
+winziger Anstieg gegenüber den 8,7 Millionen Menschen, die IDC als Telearbeiter gemeldet hat
+1999. Hewitt Associates, ein Personalberatungsunternehmen, führte seine
+eigene Befragung von 936 Großunternehmen. Seine Ergebnisse zeigten, dass 32 Prozent von
+Diese Unternehmen boten 2004 Telearbeitsmöglichkeiten an. Es war ein 1
+Prozent Steigerung gegenüber dem Vorjahr. Sun Microsystems betreibt eine eigene
+Telearbeitsprogramm namens iWork. Damit können Arbeiter arbeiten
+nach Hause oder fahren bei Bedarf zu einem flexiblen Arbeitsplatz
+brauche ein Büro. Weltweit verfügt Sun über 115 flexible Bürostandorte.
+Obwohl dies eine nette Regelung für die Mitarbeiter ist, lässt sich Sun nicht entgehen
+eventuelle Kosteneinsparungen. Laut Sun hat dieses Setup dem Unternehmen 255 Millionen US-Dollar eingespart
+über 4 Jahre. Es hat seine Kosten für Immobilien reduziert, indem es 7.700 eliminiert hat
+Sitze. Das Unternehmen spart auch Geld, indem es nicht so viel bezahlen muss
+Strom und müssen keine Computer aufrüsten. Es ist nicht so einfach, Telearbeit zu leisten, wie einen Mitarbeiter mit einem vom Unternehmen ausgestellten VPN nach Hause zu schicken
+Client, einen Benutzernamen und ein Passwort. Um es effektiv zu machen, com Unternehmen brauchen
+um zu bestimmen, welche Berufskategorien förderfähig sein sollten; dann Richtlinien und
+Leistungsziele müssen festgelegt werden. Auch das Unternehmen muss
+entscheiden, welche Ausrüstung bereitgestellt werden soll, und Schulungen entwickeln
+Mitarbeiter und Führungskräfte.
+ 
+e. Welche Dinge werden benötigt, um in der Organisation papierlos zu werden.
+ANS: - Es gibt viele Möglichkeiten, wie wir uns organisieren können, um zu gehen
+papierlos, es sind nicht nur die Scanner, die die Arbeit erledigen. Jeden
+Stakeholder einer Organisation müssen einverstanden sein, den Ansatz zu übernehmen. Einmal
+Da wir uns für papierlos entschieden haben, müssen wir uns um folgende Dinge kümmern:
+ • Es geht nicht von heute auf morgen: Die Umsetzung der papierlosen Lösung kann nicht sein
+auf einen Schlag in der Organisation umgesetzt. Wir müssen schrittweise damit beginnen
+Scannen alter Papiere. Dann können wir eingehende Unterlagen als papierlos behandeln.
+ • „Papierlos“ ist kein absolutes Muss: Manchmal benötigen wir einen Hardprint
+Papier. Einige unserer Kunden oder Geschäftspartner werden immer noch ihre wollen
+Interaktionen auf Papier. Außerdem wird es wahrscheinlich eine Steuer geben
+Dokumentation, die in Papierform aufbewahrt werden muss.
+ • Sie müssen es verkaufen: Die Idee, papierlos zu werden, ist vielleicht nicht einfach
+von allen akzeptiert. Wir müssen unsere Leute überzeugen, indem wir sie erklären
+effektiv über die Vorteile des neuen Systems. Für einen Angestellten mag es sein
+schwer zu ändern. Das Beste, was wir tun können, ist, sie darüber aufzuklären
+Vorteile des papierlosen Arbeitens, und verstehen Sie, dass es einige Zeit dauern wird, bis es funktioniert
+alle kommen vorbei. Gib der Sache Zeit. Wenn Sie papierlos arbeiten, sparen Sie bares Geld
+in den Kosten für Druck, Versand, Versand und Lagerung. Aber wie geht es weiter
+Mit dem System ergeben sich noch weitere Vorteile:
+ • Es dauert weniger Zeit, verlorene Unterlagen zu finden
+. • Es ermöglicht den sekundenschnellen Zugriff auf die meisten Dokumente.
+• Es ermöglicht den Zugriff auf alle unsere Dokumente von zu Hause oder von Außenstellen aus.
+• Es spart Platz in unserem Büro, da Aktenschränke entfernt werden.
+F. Schreiben Sie eine Notiz auf PDA und Tablet PC.
+ANS: -PDAs
+ PDA ist ein Begriff, der für ein kleines, mobiles Handheld-Gerät verwendet wird, das Daten bereitstellt
+Computer- und Informationsspeicher- und -abruffähigkeiten für den persönlichen Gebrauch
+oder geschäftliche Nutzung, häufig zum Aufbewahren von Zeitplänen, Kalendern und Adressbüchern
+Informationen griffbereit. Dieses Gerät verfügt außerdem über Speicherkartensteckplätze zur Datenspeicherung und eine drahtlose Verbindung. PDAs können verwendet werden, um a
+Paket, kann der Zusteller uns bitten, das Paket auf seinem zu unterschreiben
+PDA. Auf den PDAs läuft normalerweise eine Version von Microsoft Windows Mobile für
+Pocket PCs oder mit dem Palm OS.
+ 
+ Tablet-PCs
+ Ein Tablet-PC ist ein tragbarer PC, der eine Mischung aus einem persönlichen digitalen ist
+Assistent (PDA) und Notebook-PC. Ausgestattet mit einer Touchscreen-Oberfläche, a
+Tablet-PCs verfügen normalerweise über eine Softwareanwendung zum Ausführen einer virtuellen Tastatur.
+Viele Tablet-PCs unterstützen jedoch externe Tastaturen. Tablet-PCs haben
+integrierte Web-Browsing-Funktionen, mehrere Konnektivitätsoptionen, kapazitiv
+Touchscreens und Multimedia - einschließlich High Definition (HD)-Unterstützung.
+Tablet-PCs sind auch mit Beschleunigungsmessern ausgestattet, die es Benutzern ermöglichen
+Anzeigen von Bildschirmen im Hoch- oder Querformat. In der Regel kommen sie
+mit Microsoft Windows XP oder Vista OS.
+ 
+ 
+F.4
+A. Nennen Sie verschiedene Möglichkeiten, eine Festplatte zu bereinigen. Erklären Sie zwei.
+ANTWORT: -Nur das Formatieren reicht nicht aus, um die Festplatte zu reinigen. Information
+können auch nach dem Formatieren von der Festplatte abgerufen werden. Nach dem Formatieren
+Die Festplatte macht das Betriebssystem nur unfähig, die Daten anzuzeigen. Der
+schnelle Formatierung schreibt nur auf einen Teil der Festplatte, aber die meisten der alten
+Die Daten sind immer noch vorhanden und mit einer recht häufigen Wiederherstellung leicht zugänglich
+Werkzeug. Selbst vollständig formatierte Datenträger können teilweise oder formatiert werden
+vollständig erholt. Wir können unsere alten Festplatten bedenkenlos außer Betrieb nehmen
+mit mehreren Methoden wie Löschen, Überschreiben, Entmagnetisieren,
+Mechanisches Shredding, Secure Erase etc
+1. Löschen Verwenden Sie im Allgemeinen das Löschen der Daten, wenn Sie sie entfernen müssen
+von Festplatte. Beim Löschen von Prozessdaten werden eigentlich keine Daten gelöscht. Wenn ein
+Datei gelöscht wird, wird der Zeiger des Dateisystems auf diese Datei entfernt, aber das
+entfernt nicht die Datei selbst. Nur so wird die Datei vollständig sein
+Mit dieser Methode wird entfernt, wenn Daten den Bereich überschreiben, in dem sich die Datei befindet
+wohnte. Die Daten bleiben auf der Festplatte und können mit wiederhergestellt werden
+die richtige Software 2. Überschreiben Das Entfernen von Daten ist auch mit zufälligem Überschreiben möglich
+Daten durch dreimalige Verwendung. Im US-Verteidigungsministerium (DoD) herrschen ist dazu da
+Überschreiben Sie die Daten dreimal, da es hier zu Problemen kommen kann
+Folgendes:
+ • Inkompetenz der Überschreibprozeduren
+ • Gerätefehler, wie z. B. eine Fehlausrichtung der Lese- oder Schreibköpfe des
+Scheibe
+ • Unfähigkeit, fehlerhafte Sektoren von Datenspuren in Zwischenaufzeichnungslücken zu überschreiben
+Das Überschreiben der Software wird in der folgenden Abbildung gezeigt. Diese Lösung ist sehr
+nützlich wegen der Verfügbarkeit vieler Anwendungen, um dies zu erreichen
+wir können es auch in unserem Haus tun. Auch überschriebene Laufwerke können wieder verwendet werden
+unsere Organisation oder wir können die m verkaufen. Das Problem mit dem Überschreiben von Software ist es
+ist ein zeitaufwändiger Prozess. Das Löschen eines Laufwerks kann mehrere Stunden dauern. Das
+kann zu einem Produktivitätsverlust führen, insbesondere in einer Organisation
+Überschreiben von Hunderten oder sogar Tausenden von Festplatten
+ 
+3. Degaus sing Die starke magnetische Kraft kann Daten auf einer Magnetplatte löschen.
+Dieser Vorgang des Löschens von Daten wird als Entmagnetisierung bezeichnet. Es verwendet eine Maschine, die
+erzeugt ein starkes elektromagnetisches Feld und zerstört die gespeicherten Informationen
+auf einer Festplatte. Denn heutige Festplatten sind stark davor geschützt
+magnetische Signale benötigen wir ein stärkeres elektromagnetisches Feld, um die Daten zu löschen
+davon. Der Prozess des Löschens der Daten mit einem hohen Magnetfeld ist sehr schnell,
+aber es zerstört andere Komponenten der Festplatte und macht sie funktionsunfähig.
+Daher können sie nicht wiederverwendet werden und wir sind nicht sicher, ob alle Daten gelöscht werden oder nicht.
+Wir müssen beim Entmagnetisieren der Maschine vorsichtig sein. Beim Löschen einer Festplatte
+Wir laufen Gefahr, andere Maschinen zu zerstören, die sich möglicherweise in der Gegend befinden. Das
+Der Prozess wird im Allgemeinen von hochprofessionellen Dritten durchgeführt. Diese
+Unternehmen kaufen die Entmagnetisierungsausrüstung und führen die Arbeit aus.
+ 
+4. Mechanisches Schreddern Hier werden die alten Festplatten in einem geschreddert
+Schreddermaschine und sie werden in viele kleine Stücke zerrissen. Wir können geben
+unsere alle fahren zum shredder maschinenhalter, zahlen für die arbeit und erledigen sie, wir
+keine neue Maschine kaufen müssen. Vorteil hier ist, dass wir sicher sind, dass alle
+Informationen werden gelöscht und es gibt keine Möglichkeit, sie nach dem Schreddern einer Festplatte wiederherzustellen
+fährt.
+ 5. Secure Erase Eine Secure-Erase-Technologie wurde 2001 eingeführt. ATA und
+SATA-Laufwerke enthalten die Technologie, um die darauf enthaltenen Daten zu löschen. Aber diese Funktion wurde wahrscheinlich von den meisten Motherboard-BIOS standardmäßig deaktiviert
+aufgrund von Bedenken, dass ein Benutzer versehentlich Daten zerstören könnte. Der Nationale
+Security Agency und das National Institute for Standards and Testing haben
+hat Secure Erase eine höhere Sicherheitsbewertung gegeben als Software zum Überschreiben von Blöcken.
+Secure Erase ist zum Löschen dieser Daten zugelassen. Wir müssen nur eine herunterladen
+Dienstprogramm für sicheres Löschen. Und nutzen Sie es, um unsere Daten zu löschen
+permanent.
+B. Schreiben Sie eine kurze Notiz zur Renovierung.
+ANS: -Refurbishing (renovieren)
+ Die Computer-Refurbisher bereiten ausrangierte Computer auf, um sie zu erhalten
+In der Reihenfolge. Dies wird in der Regel von gewerblichen Aufbereitern wie z
+Dell Refurbished, IBM Refurbished und Amandi Services. es gibt auch
+nichtkommerzielle Refurbisher, bei denen es sich in der Regel um gemeinnützige Organisationen oder Schulen handelt
+Programme. Zuerst nehmen sie ausrangierte Computer, testen sie, extrahieren
+verwendbare Teile von Computern, die nicht reparierbar sind, und behebt die dann
+solche, die behoben werden können. Der Prozess kann als Herstellung eines erklärt werden
+funktionierender Computer aus zwei oder drei ausrangierten Maschinen. Dies ist in gezeigt
+folgende Abbildung.
+ 
+Die völlig funktionsunfähigen Computer werden einem Recycler zugeführt. Das Wichtige
+Ein Teil der Überholung besteht darin, die Maschine vollständig zu reinigen, indem alles formatiert wird
+alte Daten und Installieren des passenden Betriebssystems. Die Kosten von
+Die Aufarbeitung eines Computers umfasst auch Arbeitszeit, Ersatzteile und die Entsorgung von Elektroschrott. Der
+Prozess wird weiter als nicht-kommerzielle Refurbisher kategorisiert und
+gewerbliche Aufbereiter. Nichtkommerzielle Sanierung
+Hier tun in der Regel gemeinnützige und schulbasierte Programme Computer
+Schulungen gehören dazu. Ziel ist es, generalüberholte Computer herzustellen und bereitzustellen
+sie an Familien mit niedrigem Einkommen. Fast 70 Prozent nichtkommerziell
+Computerwiederverwendung wird an Schulen geschickt. Der CompuMentor ist eine Organisation
+die helfen, Menschen mit niedrigem Einkommen PCs und andere Technologien zur Verfügung zu stellen,
+Zusammen mit ihnen gibt es viele solcher Programme in den USA.
+ Gewerbesanierung
+Die alten Computer können online über viele kommerzielle Websites verkauft werden
+in funktionstüchtigem oder nicht funktionstüchtigem Zustand sein. Dies kann eine Option für eine sein
+Person, um altes System und Ohr loszuwerden n das Geld auch. Allgemein
+große Computerunternehmen wie HP Financial Services und IBM Global Asset
+Wiederherstellungsdienste. Die nichtkommerziellen und kommerziellen Programme sind es auch
+Zusammenarbeit für den Sanierungsprozess. Beispiel RECONNECT
+(www.reconnectpartnership.com) ist eine Partnerschaft zwischen Dell und
+Goodwill-Industrien. Computer können an Goodwill-Standorte gebracht werden,
+Dell wird sie aufarbeiten, und dann werden die umfunktionierten Computer verkauft
+der Erlös geht an Goodwill Industries.
+C. Nennen Sie Vor- und Nachteile des Gerätekaufs.
+ANS: -Der Kauf von Ausrüstung bringt auch seine eigenen Vorteile mit sich
+Nachteile wie folgt:
+ Vorteile:
+ • Leichtigkeit im Vergleich zum Leasing: Beim Leasing erfolgt die Einbringung und Versendung der
+Geräte zu einem bestimmten Zeitpunkt werden dem Organisationspersonal Kopfschmerzen bereiten.
+Es ist sehr kaufend, nur einmal muss man kaufen und dann ist die Ausrüstung alles
+unsere, keine Notwendigkeit, es zurückzugeben. Mietbedingungen können auch schwierig zu verhandeln sein, und
+Wir könnten am Ende ungünstige Konditionen bekommen oder zu viel ausgeben
+ • Die Wartung liegt bei Ihnen: Im Allgemeinen werden Mietverträge verwendet, um a
+von der Leasinggesellschaft erstellter Wartungsplan. Wenn wir besitzen
+Auf den Computern können wir entscheiden, wann wir Festplatten defragmentieren, installieren
+Betriebssystem-Updates usw.
+ • Steuerliche Absetzbarkeit: Wenn Sie die Computer kaufen, können Sie den Preis absetzen
+von Ihren Steuern. Wenn Sie leasen, können Sie nur die monatlichen Kosten abschreiben.
+ Nachteile:
+• Hohe Anschaffungskosten: Wenn wir unsere Computer kaufen, müssen wir das ausgeben
+Geld im Voraus aus den Mitteln der Gesellschaft. Das Geld hätte sein können
+verwendet, um das Geschäft durch Marketing, Werbung oder ähnliches aufzubauen
+anders
+ • Sie bleiben dabei: Bei einem Mietvertrag, wenn die Mietzeit abgelaufen ist und die
+Maschinen gehen zurück an die Leasinggesellschaft, die Entsorgung geht in die des Unternehmens über
+Problem, nicht unseres. Wenn wir jedoch die Computer besitzen, müssen wir das tun
+Finden Sie heraus, wie Sie die Maschinen recyceln oder wiederverwenden können.
+ 
+  D. Erklären Sie, wie der Remote-Desktop-Server konfiguriert wird.
+Antwort: - Remotedesktop ist ein Programm oder eine Betriebssystemfunktion, die
+ermöglicht es einem Benutzer, sich mit einem Computer an einem anderen Ort zu verbinden, siehe das
+Desktop des Computers und interagieren Sie mit ihm, als ob es lokal wäre.
+Wenn wir unseren Server für Remote Desktop konfigurieren, müssen wir die eingeben
+Benutzerkontoname, wenn Windows nach dem Objektnamen in der Select fragt
+Dialogfeld Benutzer. Gehen Sie wie folgt vor, um einen Remotedesktopserver zu konfigurieren
+Schritte:
+ Remote Desktop ist auf jedem Windows Vista oder höher vorinstalliert
+Computer. Die einzige Voraussetzung ist, dass alle Konten auf dem Computer dies tun
+auf die remote zugegriffen werden soll, muss ein Passwort haben.
+ 1. Um mit der Konfiguration zu beginnen, müssen wir Passwörter für alle Benutzer festlegen, die dies wünschen
+fern verbinden. Wenn wir bereits ein Passwort für den Zugriff auf unser Konto verwenden, werden wir
+können Sie mit Schritt 2 fortfahren. Wenn unser Konto kein Passwort hat, klicken Sie auf Start |
+Systemsteuerung | Benutzerkonten. Wählen Sie dort unser Benutzerkonto aus und
+klicken Sie auf Passwort erstellen. Wenn wir ein Passwort erstellt haben, schließen Sie den Benutzer
+Konten-Fenster.
+2. Klicken Sie auf Start | Systemsteuerung und doppelklicken Sie auf das Symbol System (klicken Sie auf Switch
+zur klassischen Ansicht auf der linken Seite der Systemsteuerung, wenn wir kein sehen
+Systemsymbol). Klicken Sie im Fenster Systemeigenschaften auf die Registerkarte Remote oder
+Link Remote-Einstellungen.
+ 3. Setzen Sie auf der Registerkarte Remote ein Häkchen in das Kästchen neben Allow Remote
+Hilfsverbindungen zu diesem Computer (Windows 7).
+Hinweis: Wenn wir planen, eine Remote-Verbindung zu einem angeschlossenen Computer herzustellen
+zu einer Active Directory-Domäne der University of Iowa, beachten Sie die vollständige
+Computername aufgeführt. Dies ist der "Hostname", den wir eingeben müssen, wenn
+Herstellen der Verbindung vom Client-Computer (entfernt).
+4.Klicken Sie auf die Schaltfläche Remote-Benutzer auswählen, um Benutzer hinzuzufügen, die auf den Host zugreifen können
+Computer aus der Ferne. Wenn wir weitere Benutzer hinzufügen müssen, klicken Sie auf die Schaltfläche Hinzufügen,
+Geben Sie den Kontonamen ein und klicken Sie auf OK. Klicken Sie noch einmal auf OK und Remote
+Desktop wird aktiviert.
+5. Wir können jetzt von einem Remote-Computer aus eine Verbindung zum Host-Computer herstellen
+der Remotedesktop-Client.
+ Remote Desktop Client 1. Starten Sie die Remote Desktop Client-Software auf dem Remote-Computer (Start |
+Programme | Zubehör | Kommunikation | Remotedesktopverbindung auf a
+Windows-Rechner).
+ 2. Wählen Sie den Dropdown-Pfeil „Optionen“, um die verfügbaren Optionen anzuzeigen und auszuwählen
+unsere Vorlieben. Zum Beispiel können wir auf der Registerkarte Anzeigeoption s auswählen
+die Standardanzeigegröße und wählen Sie mehrere Monitore für die Anzeige aus.
+ 3. Geben Sie unseren Hostnamen ein (Arbeitscomputername) klicken Sie auf die Schaltfläche Verbinden.
+ 4. Uns sollte ein Anmeldebildschirm für den Host-Computer angezeigt werden. Eingeben
+unseren Benutzernamen und das Passwort für das Konto und klicken Sie auf OK.
+ Hinweis: Möglicherweise müssen wir vorher die Domäne gefolgt von einem Backslash ( \ ) eingeben
+Geben Sie unseren Benutzernamen ein, um sich anzumelden. Wir sollten jetzt angemeldet sein und können
+unseren Computer aus der Ferne verwenden
+e. Erläutern Sie die Einschränkung der Gefahrstoffzertifizierung.
+Antwort: - Die Richtlinie 2002/95/EG zur Beschränkung gefährlicher Stoffe (RoHS
+1), kurz für Richtlinie zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe
+Stoffe in Elektro- und Elektronikgeräten, wurde im Februar angenommen
+2003 von der Europäischen Union.
+ Die Richtlinie RoHS 1 ist am 1. Juli 2006 in Kraft getreten und muss es sein
+durchgesetzt und in jedem Mitgliedsstaat zum Gesetz gemacht. Diese Richtlinie schränkt ein
+(mit Ausnahmen) die Verwendung von sechs gefährlichen Materialien bei der Herstellung von
+verschiedene Arten von elektronischen und elektrischen Geräten.
+Jedes Unternehmen, das entsprechende elektrische oder elektronische Produkte verkauft,
+Geräte, Baugruppen, Kabel, Komponenten oder Ersatzteile direkt an
+RoHS-Ländern oder verkauft diese wiederum an Wiederverkäufer, Distributoren oder Integratoren
+Produkte in diese Länder verkaufen, ist betroffen, wenn sie eines der verwenden
+10 Substanzen eingeschränkt.
+ RoHS wird oft als „Bleifrei-Richtlinie“ bezeichnet, schränkt dies jedoch ein
+Verwendung der folgenden zehn Substanzen:
+ 1. Blei (Pb)
+2. Quecksilber (Hg)
+ 3. Kadmium (Cd)
+ 4. Sechswertiges Chrom (Cr6+)
+ 5. Polybromierte Biphenyle (PBB) 6. Polybromierte Diphenylether (PBDE)
+ 7. Bis(2-ethylhexyl)phthalat (DEHP)
+ 8. Butylbenzylphthalat (BBP)
+ 9. Dibutylphthalat (DBP)
+10. Diisobutylphthalat (DIBP)
+Jede RoHS-konforme Komponente muss 100 ppm oder weniger Quecksilber enthalten
+und das Quecksilber darf nicht absichtlich hinzugefügt worden sein
+Komponente. In der EU sind einige militärische und medizinische Geräte ausgenommen
+von der RoHS-Konformität
+F. Definieren und erläutern Sie die Begriffe Verpackung und Toxine bzgl
+Hardwarebetrachtung.
+Antwort: - Verpackung
+ Die Verpackung und der Versand sind der wichtige Aspekt in Bezug auf seine
+Umweltbelastung. Im Allgemeinen kommt die Computerausrüstung herein
+Verpackungen, die nicht wiederverwendet oder recycelt werden können. Verpackung aus mehreren Materialien
+erschwert das Recycling, und nicht recycelbare Materialien verursachen ebenfalls
+Probleme.
+Folgende Tipps können hilfreich sein, wenn neue Computer zu uns transportiert werden:
+ • Wir können verlangen, dass mehrere Computer für den Versand zusammen verpackt werden.
+statt einzeln verpackt.
+• Wir können nach recycelten Materialien und recycelbaren Verpackungen fragen
+unsere Maschinen.
+• Wir müssen die für Verpackungen verwendeten Materialarten kennen, weil wir dieselben sind
+müssen unsere Recycler informieren. Es ist also eine Kennzeichnung erforderlich, um zu zeigen, um welchen Typ es sich handelt
+aus Kunststoff verwendet.
+• Wir können die Rücknahme von Verpackungen zur Wiederverwendung oder zum Recycling verlangen
+Hersteller oder Versender.
+• Wir können nach Online-Handbüchern und vorinstallierten Programmen fragen.
+Toxine Es gibt negative Auswirkungen von toxischen Komponenten von Computern, wenn sie
+sind am Lebensende. Wir können steuern, wie viel giftiges Material verwendet wird
+Suchen Sie nach Hardware, die nach diesen Richtlinien erstellt wurde:
+ • Sich für Hersteller entscheiden, die geringe Mengen giftiger Chemikalien verwenden.
+ • Sich für Hersteller entscheiden, die bleifreies Lot verwenden.
+ • Sich an Hersteller zu wenden, die quecksilberarme und langlebige Lampen verwenden
+Flachbildschirme.
+ • Batterien sollten austauschbar, wiederaufladbar und recycelbar sein.
+ 
+ 
+F.5
+A. Was ist SWAP?
+Antwort:- (SWaP) Platz, Wattzahl und Leistung
+Dies ist eine Metrik von Sun Microsystems für Rechenzentren. Es wurde für Computer entwickelt
+der Energie- und Platzbedarf eines Rechenzentrums .
+„SWaP ist eine objektive dreidimensionale Metrik, die mehr liefert
+umfassende und realistische Methode zur Bewertung heutiger Server .
+ „Das Benchmarking der Energieeffizienz von IT-Systemen kann Kunden helfen
+Treffen Sie bessere Kaufentscheidungen, wenn Sie den Kompromiss in Betracht ziehen.“ zwischen
+die Notwendigkeit für mehr Leistung und die steigenden Energie- und Realkosten
+Anwesen."
+• SWaP ist weiterhin anwendbar
+ • SWaP muss mit einer festgelegten Leistungsgrenze pro Quadratfuß Grundfläche berechnet werden >
+Bequem in ein Power/Rack zu übersetzen
+ • Raum wird zur effektiven RU, die von den Servern einschließlich Weiß eingenommen wird
+Raum
+ • Wenn beide Server in einem Vergleich durch die Leistung und nicht durch die Größe begrenzt sind
+dann wird SWaP einfach zu einem Maß für Leistungswatt
+  B. Erklären Sie Gruppen, die an CRM beteiligt sind.
+ANS:- Für Kunden, Sie sind nur eine Organisation mit einigen Namen, ohne
+Kenntnisse über unsere Tätigkeit in unserem Unternehmen haben. Der
+Kunden sehr gut wissen, dass, wenn sie etwas kaufen, jemand
+muss die Zahlung verarbeiten, das Produkt für den Versand verpacken und ausführen
+der eigentliche Versand.
+ Das Customer Relationship Management (CRM) ist eine Philosophie von
+Koordination zwischen allen Beteiligten in einer Organisation, so dass die
+Der Kunde wird gut bedient und hat die bestmögliche Erfahrung als unser Kunde
+Kunde. CRM trennt die Personen unserer Organisation im Folgenden
+Gruppen:
+ • Kundenorientierte Operationen: Dies sind die Menschen und Technologien a
+Kundenerfahrungen, wenn er oder sie mit dem Unternehmen interagiert. Das kann
+Dazu gehören persönliche Interaktionen, Telefonanrufe, Instant Messaging und das Internet
+Chats, E-Mail und so weiter. Dazu können auch Kioske und Web-Self-Service gehören.
+ • Interne kollaborative Funktionsabläufe: Dies sind die Personen und
+Technologien, die die Unternehmensrichtlinien und Backoffice-Operationen unterstützen
+die sich direkt auf die Aktivitäten des Kundenkontakts auswirken
+Betriebsgruppe. Dazu gehören IT, Abrechnung, Wartung, Planung,
+Marketing, Finanzen und Fertigung.
+ • Funktionen für die externe Zusammenarbeit: Diese Personen und Technologien unterstützen
+die Organisation bei der Entwicklung von Beziehungen zu externen Gruppen.
+Zu diesen Gruppen gehören Lieferanten, Anbieter, Händler, Lobbygruppen und
+Fachverbände.
+• Kundenfürsprecher und Erlebnisdesigner: Dies sind die Menschen und
+Technologien, die dazu beitragen, dem Kunden einen Mehrwert zu bieten und den Gewinn zu steigern
+Organisation.
+ • Leistungsmanager und Marketinganalysten: Das sind die Leute
+und Technologien, die Key Performance Indicators entwerfen und Metriken sammeln
+und Daten, die helfen, das CRM auf Kurs zu halten. Dies ist die Gruppe, die gründet
+Meilensteine ​​und Daten, um festzustellen, ob der CRM-Prozess effektiv ist.
+• Kunden- und Mitarbeiterbefrager und Analysten: Das sind die Leute
+und Technologien, die darüber entscheiden, ob Kunde und Mitarbeiter
+Beziehungen werden besser oder schlechter. c. Erklären Sie das Konzept der grünen Lieferkette.
+Antwort: - Es ist nicht nur die Organisation, die für den Schutz verantwortlich ist
+Umwelt und immer grüner werden, sondern die Unternehmen, aus denen man stammt
+Kauf von Teilen und Dienstleistungen und Unternehmen, mit denen man im Geschäft ist
+müssen auch ökologisch verantwortungsvoll handeln.
+So kann man Mindeststandards festlegen, die seine Anbieter befolgen müssen. Für
+Beispielsweise hat Dell einige Standards festgelegt, und wenn Anbieter die von Dell nicht erfüllen
+Standard, Dell wählt einen anderen Anbieter, der die Mindestanforderungen erfüllt
+Anforderung von Dell. Hier ist die Idee, die Anbieter auszuwählen, die tätig sind
+die Art und Weise bequem für die Organisation.
+C. Erklären Sie die Voraussetzung von VMware.
+Antwort: - Einige der Voraussetzungen von VMware sind:
+1. Es läuft nur auf Intel-Maschinen (Windows oder Linux).
+   2. VMware verbraucht viel RAM. Mindestens 256 MB pro virtuellem Server
+erforderlich. Versuchen Sie jedoch nicht, so viele 256-MB-Server wie möglich auf dem zu erstellen
+physischer Server. Da es die Maschine verlangsamt. Ordnen Sie mindestens e 1 zu
+GB oder 2 GB Arbeitsspeicher pro virtualisiertem Server.
+3. Genügend CPU-Leistung und Plattenplatz sollten pro virtuellem Server als vorhanden sein
+Die CPU-Auslastung und der Speicherplatz werden von der Anzahl der virtuellen Server beeinflusst
+Eingerichtet.
+D. Was ist ein Thin-Client? Nennen Sie seine Vorteile.
+Antwort: - Thin Client ist ein leichter Computer, der speziell für den Zugriff gebaut wurde
+der Remote-Server. Thin Client ist für die Berechnung stark vom Server abhängig
+Aufgaben. Als Teil der Client-Replacement-Strategie; man kann die ersetzen
+herkömmliche PCs (kostspielig, hardwareintensiv) mit Thin Client.
+Die Maximierung der Rechenkapazität des Rechenzentrums wird ebenfalls implementiert
+niedrige Stromversorgung.
+Auch alte Rechner (sofern nicht zu recyceln) können dabei als Thin Clients fungieren
+Geld sparen. Da die gesamte Verarbeitung und Datenspeicherung auf dem Server erfolgt, ist one
+kann vorhandene Clients als Thin Clients nutzen und alle Funktionen bereitstellen und
+Anwendungen auf den Server. Die gemeinsame Initiative für grüne Rechenzentren ist die Bereitstellung mehrerer virtueller
+Maschinen in einer einzigen physischen Umgebung. Anstatt redundante Daten aufzubauen
+Center mit mehrstufigem Strom- und Kühlbedarf, Virtualisierung
+ermöglichte es Unternehmen, ein einziges leistungsstarkes Rechenzentrum zu betreiben, in dem mehrere Rechenzentren betrieben wurden
+Maschinen. Diese virtuellen Maschinen können Serveraufgaben für Thin Clients ausführen
+Umgebungen. Auf diese Weise kann der Stromverbrauch reduziert werden d signifikant
+und gleichzeitig kann auch eine Maximierung der physischen Ressourcen erreicht werden.
+ 
+e. Wie man den CEO verkauft.
+Antwort: - Im Folgenden finden Sie einige Möglichkeiten, CEOs zu verkaufen
+ Die Vorteile des Umweltschutzes sind nicht für jeden offensichtlich
+Organisation, insbesondere zum CEO. Diese Leute in der Organisation sind
+gut im Herzen und sie wissen auch, dass sie den Treibhauseffekt reduzieren sollten
+Gasemissionen, aber sie sind daran interessiert, Geld zu verdienen.
+ Um den CEO zu überzeugen, sollte man also die Vorteile des „Green In“ erklären
+Bedingungen für geldwerte Vorteile. Zum Beispiel, wenn man das erklärt
+Effizienz mit den folgenden Zeilen, die Aufmerksamkeit des CEO geht an den Daten verloren
+Center.
+ „Wechsel des Rechenzentrums vom alten Rack-Server zum neuen konsolidierten Blade
+server r (verantwortlich für die Abwicklung von Aufgaben mehrerer Server mit
+Virtualisierungstechnologie) wird effizienter sein."
+ Vielmehr wird die Erklärung der obigen Zeilen auf folgende Weise die CEOs anziehen
+Ohr.
+ „Der Austausch alter Rack-Server gegen neue konsolidierte Blade-Server spart Zeit
+ungefähr Rs. 40000 an Stromkosten pro Server pro Jahr und durch
+das Rechenzentrum hat 5000 Server".

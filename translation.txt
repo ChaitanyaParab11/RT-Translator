@@ -1,0 +1,32 @@
+d sign ificantly 
+and at the same time maximization of physical resources can be achieved also.  
+ 
+e. How to sell the CEO.  
+Ans: - Following are the some ways to sell CEO  
+ The benefits of going green are not obvious to everyone in the 
+organization especially to CEO. These people in t he organization are 
+good at heart and they also know that they should reduce greenhouse 
+gas emission but they are interested in making money.  
+ So, to convince CEO, one should explain the benefits of going green in 
+terms of monetary benefits. For example, if  one is explaining the 
+efficiency using following lines, attention of CEO will get lost at the data 
+center.  
+  "Changing data center from old rack server to new consolidated blade 
+serve r (responsible for handling tasks of multiple server using 
+virtualization  technology) will be more efficient."  
+ Rather, explaining the above lines in following way will attract the CEO's 
+ear. 
+ "Changing old rack servers into new consolidated blade servers will save 
+approximately Rs. 40000 in electrical costs per server per year and by 
+the way data center has 5000 server".  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
