@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <form method="POST">
+                    <div class="form-group">
+                        <label for="text">Enter text to translate:</label>
+                        <textarea class="form-control" id="text" name="text" rows="5">{{ request.form['text'] }}</textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Translate</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                {% if translation %}
+                    <h3>Translation:</h3>
+                    <p>{{ translation }}</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

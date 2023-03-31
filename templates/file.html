@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <form method="POST" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="file">Choose a file to translate:</label>
+                        <input type="file" class="form-control-file" id="file" name="file">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Translate</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                {% if error %}
+                    <div class="alert alert-danger" role="alert">
+                        {{ error }}
+                    </div>
+                {% endif %}
+                {% if translation %}
+                    <h3>Translation:</h3>
+                    <p>{{ translation }}</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

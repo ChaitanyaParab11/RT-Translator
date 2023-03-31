@@ -3,8 +3,8 @@ from deep_translator import GoogleTranslator
 from translate import Translator
 
 
-def pdftranslate():
-    file=open("sample2.pdf","rb")
+def pdftranslate(loc):
+    file=open(loc,"rb")
     reader = PdfReader(file)
     # page = reader.pages[0]
     # print(page.extract_text())
